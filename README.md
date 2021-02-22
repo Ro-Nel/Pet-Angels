@@ -69,6 +69,12 @@ PERSEVERANCIA
 Es importante contar con una buena planificación, pero hay que tener claro que el proceso de desarrollo en sí puede ser especialmente pesado,
  en el sentido de que tienen que llevarse a cabo muchos ensayos e intentos fallidos.
 
+ORGANIZACION
+
+La planificación es imprescindible en los proyectos de desarrollo.
+ De hecho, es importante que el profesional sepa pensar en fases, de modo que los problemas queden parcelados y puedan resolverse de forma detallada. 
+ Para conseguirlo, también será necesaria una buena dosis de lógica.
+ 
 
 System Request
 
