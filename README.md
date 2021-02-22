@@ -55,7 +55,7 @@ Cantidad de horas invertidas.
 Equipos para el soporte de software de desarrollo.
 Por otra parte ya que no contaremos con varias Clinicas Vererinarias pero si con el cuidado de mascotas.
 
-- Factibilidad Organizacional 
+## Factibilidad Organizacional 
 
 Habilidades requeridas por los integrantes del proyecto
 
