@@ -2,24 +2,25 @@
 Proyecto (Angeles de Mascotas)
 ## Descripción del proyecto 🚀
 (Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población una alternativa de servicios prestados por medio de una plataforma web.
-
 Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva a cado en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes.
-
 Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
 
 ## Antecedentes y Problemática 📋
-En los ultimos años las personas an estado recurriendo a las veterinarias mas cercanas a su domicilio para la atencion de sus mascotas tanto rutinarias como de emergencias, ademas muchas personas solo preguntan como se los deben cuidar o que remedios caseros darles a sus mascotas, cuando hoy en dia la mayoria de las personas piensan que el cuidado de las mascotas es la misma que la de las personas y lo cuidan o tratan de una manera incorrecta, es decir no existe un manual o alguna guia que puedan consultar al alcance de cualquiera y consultas sobre la misma.
-.
+
+
+En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, además muchas personas solo preguntan cómo se los deben cuidar o que remedios caseros darles a sus mascotas, cuando hoy en día la mayoría de las personas piensan que el cuidado de las mascotas es la misma que la de las personas y lo cuidan o tratan de una manera incorrecta, es decir no existe un manual o alguna guía que puedan consultar al alcance de cualquiera y consultas sobre la misma.
+
+
 ## Objetivo General ⌨️
-Informar a los usuarios sobre informaciòn comfiable sobre el cuidado y la atencion de las mascotas en una plataforma confiable para los usuarios.
-.
-## Objetivos Especificos 📦
+Informar a los usuarios sobre información confiable sobre el cuidado y la atención de las mascotas en una plataforma confiable para los usuarios.
 
-►  Informaciòn confiable de la crianza y cuidado de las mascotas.
+## Objetivos Específicos 📦
 
-►  Contacto directo con clinicas certificadas.
+►  Información confiable de la crianza y cuidado de las mascotas.
 
-►  Realizar una plataforma con todas las medidas de seguridad y autentificaciòn de los usuarios.
+►  Contacto directo con clínicas certificadas.
+
+►  Realizar una plataforma con todas las medidas de seguridad y autentificación de los usuarios.
 
 
 
@@ -33,41 +34,41 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 
  
-  # ANALISIS DE FACTIBILIDAD
+  # ANÁLISIS DE FACTIBILIDAD
  
-## Factibilidad Tecnica
-#### Disponibilidad de tecnologia, conocimiento y habilidades para desarrollar el proyecto: <br />	
+## Factibilidad Técnica
+#### Disponibilidad de tecnología, conocimiento y habilidades para desarrollar el proyecto: <br />	
 
 * Front-end: Vue.js	
 * Herramienta Software: IntelliJ IDEA 2020.3.2 x64.	
 * Conocimientos: Java, Base de datos (MySQL, Firebase), UML.	
 
-##### Requerimientos minimos para lo programacion.  <br />	
+##### Requerimientos mínimos para lo programación.  <br />	
 
 * Sistema operativo: Windows 7.	
 * Memoria RAM: 3GB + 1 GB (Para el emulador).	
 * Almacenamiento: 125 GB de espacio en disco.	
-* Version Java: Java Development Kit (JDK) 8.	
-* Resolucion minima: 1280x800.	
+* Versión Java: Java Development Kit (JDK) 8.	
+* Resolución mínima: 1280x800.	
 * Procesador: Core i5.	
 
-##### Requerimientos recomendado para lo programacion.  <br />	
+##### Requerimientos recomendado para lo programación.  <br />	
 
 * Sistema operativo: Windows 10.	
 * Memoria RAM: 8GB + 1 GB (Para el emulador).	
 * Almacenamiento: 250 GB recomendados de espacio en el disco.	
-* Version Java: Java Development Kit (JDK) 8.	
-* Resolucion minima: 1440x900.	
+* Versión Java: Java Development Kit (JDK) 8.	
+* Resolución mínima: 1440x900.	
 * Procesador: Core i7.	
 
 
 
-## Factibilidad Economica
+## Factibilidad Económica
 
 Para el costo del desarrollo de la aplicación tomará en cuenta:
 Cantidad de horas invertidas.
 Equipos para el soporte de software de desarrollo.
-Por otra parte ya que no contaremos con varias Clinicas Vererinarias pero si con el cuidado de mascotas.
+Por otra parte ya que no contaremos con varias Clínicas Veterinarias pero si con el cuidado de mascotas.
 
 ## Factibilidad Organizacional (Habilidades requeridas por los integrantes del proyecto)
 
@@ -130,44 +131,43 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 
 ## Sponsor
 
- Inicialmente los patrocinadores del proyecto sera nuestro padres debido aun principio no gerara ingresos economicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clinicas vererinarias para que puedan brindar su servio de atencion a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, asi brindar servicio en los demas departamentos y no solo en La Paz. 
+Inicialmente los patrocinadores del proyecto serán nuestro padres debido aun principio no generara ingresos económicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clínicas veterinarias para que puedan brindar su servicio de atención a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, así brindar servicio en los demás departamentos y no solo en La Paz. 
 
 ## Bussiness Need
 
-  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet para la atencion de sus mascotas.
+  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atención a los clientes existentes mediante el uso de la plataforma de citas por internet para la atención de sus mascotas.
 
 
 ## Bussiness Requierements
 
 - Pagina Web
 - Base de Datos en la nube
-- Autentificaciòn de usuarios
+- Autentificación de usuarios
 - Seguridad:
 	- Acceso a la plataforma para cualquier persona, Pero Para una consulta personas mayores de 18 años.
-	- Acceso a GPS para la informaciòn de las clinicas
+	- Acceso a GPS para la información de las clínicas
 	- Registro de Voluntarios para el buen cuidado de las mascotas
 
 
 ## Bussiness Value
 
- Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la pagina web,
- la cual tendran acceso a elegir una clinica confiable para la atencion  de su mascota.
-Esperamos una mayor interaccion de los clientes con las clinicas  a travez de la pagina web, 
-tambien se espera un ingreso por cada reserva de cita que haga el cliente con la clinica.
+ Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la página web,
+ la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota.
+Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la aplicación web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
 	
-	Las estimaciones del valor tangible para la pagina web son los siguientes:
+	Las estimaciones del valor tangible para la aplicación web son los siguientes:
 	*  monto por cada reserva de cita
 	* monto por cada registro nuevo de cliente
-	* mont por cada clinica nueva registrada
+	* monto por cada clínica nueva registrada
 
 ## Special Issues Or Constraints
 
-El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea mas fácil.
-El mercado para un principio solo sera abarcado por un sitio web.
+El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea más fácil.
+El mercado aun principio solo será abarcado por la aplicación web.
 
 Poca ganancia en el principio del proyecto debido a la falta de propaganda
-Falta de un chat de comunicación con los clientes que desean colsultar la angustia de su mascota.
-Falta de monitoreo del los voluntarias que estaran cuidando a las mascotas en tiempo real debido a la falta de sistemas GPS.
+Falta de un chat de comunicación con los clientes que desean consultar la angustia de su mascota.
+Falta de monitoreo del los voluntarias que estarán cuidando a las mascotas, en tiempo real debido a la falta de sistemas GPS.
 
-Ofrecer el servicio de Cosultas 24/7.
+Ofrecer el servicio de Consultas 24/7.
 
