@@ -123,7 +123,7 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 
 ## Bussiness Need
 
-  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet.	
+  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet para la atencion de sus mascotas.
 
 
 ## Bussiness Requierements
@@ -131,10 +131,16 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 
 
 ## Bussiness Value
-- Bussines Value -Values
-	*Tangible
-	*No tangible
+
+ Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la pagina web,
+ la cual tendran acceso a elegir una clinica confiable para la atencion  de su mascota.
+Esperamos una mayor interaccion de los clientes con las clinicas  a travez de la pagina web, 
+tambien se espera un ingreso por cada reserva de cita que haga el cliente con la clinica.
 	
+	Las estimaciones del valor tangible para la pagina web son los siguientes:
+	*  monto por cada reserva de cita
+	* monto por cada registro nuevo de cliente
+	* mont por cada clinica nueva registrada
 
 ## Special Issues Or Constraints
 - Special Issues Or Constraints - Aracely
