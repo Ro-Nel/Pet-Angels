@@ -1,7 +1,7 @@
 # Pet-Angels
 Proyecto (Angeles de Mascotas)
 ## Descripción del proyecto 🚀
-
+(Pet-Angels) Es nuestra idea de proyecto que se basa en una plataforma principalmente informativa sobre el buen cuidado y crianza de las mascotas, en esta plataforma podrán tener contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
 .
 ## Antecedentes y Problemática 📋
 
