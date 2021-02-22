@@ -90,6 +90,11 @@ El trabajo en equipo comienza por uno mismo y hay que ser muy responsable en con
 Responsabilidad con el equipo: Porque en un grupo, cada integrante debe tener un nivel muy elevado de responsabilidad y compromiso con el equipo. 
 Sin esto, nada va a funcionar porque cada uno irá por su lado sin pensar en el conjunto.
 
+INTELIGENCIA
+
+Desarrollar software no es una tarea sencilla. Y aunque la mayoría de profesiones requieren de inteligencia para que los resultados sean óptimos, 
+los desarrolladores tienen que ser especialmente sesudos y además, saber concentrarse en procesos complejos y pesados.
+
 System Request
 
 
