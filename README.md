@@ -75,6 +75,13 @@ La planificación es imprescindible en los proyectos de desarrollo.
  De hecho, es importante que el profesional sepa pensar en fases, de modo que los problemas queden parcelados y puedan resolverse de forma detallada. 
  Para conseguirlo, también será necesaria una buena dosis de lógica.
  
+RESPETO
+ 
+El respeto, permite mantener un ambiente de trabajo propicio para el desarrollo y
+satisfacción de los integrantes que conforman el equipo, de modo que se manifieste en la
+adopción de comportamientos como la escucha atenta y el entendimiento de los diferentes
+puntos de vista.
+
 
 System Request
 
