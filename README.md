@@ -18,11 +18,7 @@ Proyecto (Angeles de Mascotas)
 ►  
  
  # ANALISIS DE FACTIBILIDAD
- 
- 
- ## Factibilidad Tecnica
- 
-Presupuesto 30000 
+
 ## Factibilidad Tecnica
 - factibilidad tecnica - Nelson
 #### Disponibilidad de tecnologia, conocimiento y habilidades para desarrollar el proyecto: <br />
@@ -50,6 +46,7 @@ Presupuesto 30000
 * Procesador: Core i7.
 
 
+Presupuesto 30000 
 - Factibilidad Economica - Aracely
 - Factibilidad Organizacional - Mayumi
 
