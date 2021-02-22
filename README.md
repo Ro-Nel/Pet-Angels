@@ -7,7 +7,7 @@ Proyecto (Angeles de Mascotas)
 En los ultimos años las personas an estado recurriendo a las veterinarias mas cercanas a su domicilio para la atencion de sus mascotas tanto rutinarias como de emergencias, ademas muchas personas solo preguntan como se los deben cuidar o que remedios caseros darles a sus mascotas, cuando hoy en dia la mayoria de las personas piensan que el cuidado de las mascotas es la misma que la de las personas y lo cuidan o tratan de una manera incorrecta, es decir no existe un manual o alguna guia que puedan consultar al alcance de cualquiera y consultas sobre la misma.
 .
 ## Objetivo General ⌨️
-
+Informar a los usuarios sobre informaciòn comfiable sobre el cuidado y la atencion de las mascotas en una plataforma confiable para los usuarios.
 .
 ## Objetivos Especificos 📦
 
