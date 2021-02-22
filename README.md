@@ -95,6 +95,11 @@ INTELIGENCIA
 Desarrollar software no es una tarea sencilla. Y aunque la mayoría de profesiones requieren de inteligencia para que los resultados sean óptimos, 
 los desarrolladores tienen que ser especialmente sesudos y además, saber concentrarse en procesos complejos y pesados.
 
+HONESTIDAD
+
+Para trabajar en equipo es imprescindible ser honesto para transmitir cuándo algo no se sabe hacer, 
+cuándo no se llega a tiempo, cuándo el trabajo supera y/o se necesita ayuda
+
 System Request
 
 
