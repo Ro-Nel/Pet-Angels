@@ -98,7 +98,14 @@ los desarrolladores tienen que ser especialmente sesudos y además, saber concen
 HONESTIDAD
 
 Para trabajar en equipo es imprescindible ser honesto para transmitir cuándo algo no se sabe hacer, 
-cuándo no se llega a tiempo, cuándo el trabajo supera y/o se necesita ayuda
+cuándo no se llega a tiempo, cuándo el trabajo supera y/o se necesita ayuda.
+
+FLEXIBILIDAD
+
+En realidad, la flexibilidad es una cualidad que debe acompañar a todos aquellos profesionales que trabajan en el campo de las tecnologías de la información. 
+Sin embargo, los lenguajes de programación son cambiantes y a veces, para un mismo proyecto es necesario tener conocimientos sobre una gran variedad de campos.
+ Además, los entornos son extremadamente cambiantes y los buenos desarrolladores deben exigirse aprender cosas nuevas constantemente y no solo sobre programación,
+ sino también acerca de todos aquellos campos en los que han de aplicarse sus tecnologías.
 
 System Request
 
@@ -109,7 +116,7 @@ System Request
  Inicialmente los patrocinadores del proyecto sera nuestro padres debido aun principio no gerara ingresos economicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clinicas vererinarias para que puedan brindar su servio de atencion a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, asi brindar servicio en los demas departamentos y no solo en La Paz. 
 
 ## Bussiness Need
-- Bussiness Need 
+
   Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet.	
 
 
