@@ -59,61 +59,61 @@ Por otra parte ya que no contaremos con varias Clinicas Vererinarias pero si con
 
 Habilidades requeridas por los integrantes del proyecto
 
-CREATIDAD
+* CREATIDAD
 
 La creatividad es un factor imprescindible a la hora de trabajar en el desarrollo de aplicaciones. 
 Si bien la parte del desarrollo es rígida y los procesos deben ejecutarse al milímetro, ser creativos es fundamental para innovar.
 
-PERSEVERANCIA
+* PERSEVERANCIA
 
 Es importante contar con una buena planificación, pero hay que tener claro que el proceso de desarrollo en sí puede ser especialmente pesado,
  en el sentido de que tienen que llevarse a cabo muchos ensayos e intentos fallidos.
 
-ORGANIZACION
+* ORGANIZACION
 
 La planificación es imprescindible en los proyectos de desarrollo.
  De hecho, es importante que el profesional sepa pensar en fases, de modo que los problemas queden parcelados y puedan resolverse de forma detallada. 
  Para conseguirlo, también será necesaria una buena dosis de lógica.
  
-RESPETO
+* RESPETO
  
 El respeto, permite mantener un ambiente de trabajo propicio para el desarrollo y
 satisfacción de los integrantes que conforman el equipo, de modo que se manifieste en la
 adopción de comportamientos como la escucha atenta y el entendimiento de los diferentes
 puntos de vista.
 
- RESPONSABILIDAD 
+* RESPONSABILIDAD 
  
-Responsabilidad individual: Cada uno tiene que tener claro y en el máximo nivel, su responsabilidad propia e individual. 
+- Responsabilidad individual: Cada uno tiene que tener claro y en el máximo nivel, su responsabilidad propia e individual. 
 El trabajo en equipo comienza por uno mismo y hay que ser muy responsable en conocer cuáles son las tareas de cada uno y desempeñarlas de manera competente.
 
-Responsabilidad con el equipo: Porque en un grupo, cada integrante debe tener un nivel muy elevado de responsabilidad y compromiso con el equipo. 
+- Responsabilidad con el equipo: Porque en un grupo, cada integrante debe tener un nivel muy elevado de responsabilidad y compromiso con el equipo. 
 Sin esto, nada va a funcionar porque cada uno irá por su lado sin pensar en el conjunto.
 
-INTELIGENCIA
+* INTELIGENCIA
 
 Desarrollar software no es una tarea sencilla. Y aunque la mayoría de profesiones requieren de inteligencia para que los resultados sean óptimos, 
 los desarrolladores tienen que ser especialmente sesudos y además, saber concentrarse en procesos complejos y pesados.
 
-HONESTIDAD
+* HONESTIDAD
 
 Para trabajar en equipo es imprescindible ser honesto para transmitir cuándo algo no se sabe hacer, 
 cuándo no se llega a tiempo, cuándo el trabajo supera y/o se necesita ayuda.
 
-FLEXIBILIDAD
+* FLEXIBILIDAD
 
 En realidad, la flexibilidad es una cualidad que debe acompañar a todos aquellos profesionales que trabajan en el campo de las tecnologías de la información. 
 Sin embargo, los lenguajes de programación son cambiantes y a veces, para un mismo proyecto es necesario tener conocimientos sobre una gran variedad de campos.
  Además, los entornos son extremadamente cambiantes y los buenos desarrolladores deben exigirse aprender cosas nuevas constantemente y no solo sobre programación,
  sino también acerca de todos aquellos campos en los que han de aplicarse sus tecnologías.
  
- MOTIVACION
+ * MOTIVACION
  
 Hay que tener motivación para querer hacer las cosas bien, pero además, hacerlo motivado e ilusionado.
  Porque pasamos más de la mitad de nuestra vida trabajando, y qué mejor que hacerlo con una actitud positiva.
  
 
-System Request
+#### #System Request
 
 
 ## Sponsor
