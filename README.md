@@ -11,11 +11,11 @@ Informar a los usuarios sobre informaciòn comfiable sobre el cuidado y la atenc
 .
 ## Objetivos Especificos 📦
 
-►  
+►  Informaciòn confiable de la crianza y cuidado de las mascotas.
 
-►  
+►  Contacto directo con clinicas certificadas.
 
-►  
+►  Realizar una plataforma con todas las medidas de seguridad y autentificaciòn de los usuarios.
  
   # ANALISIS DE FACTIBILIDAD
  
