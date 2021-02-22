@@ -16,11 +16,22 @@ Informar a los usuarios sobre informaciòn comfiable sobre el cuidado y la atenc
 ►  Contacto directo con clinicas certificadas.
 
 ►  Realizar una plataforma con todas las medidas de seguridad y autentificaciòn de los usuarios.
+
+
+
+
+## Autores ✒️
+* **Saravia Rodrigo** - [@Ro-Nel](https://github.com/Ro-Nel)
+* **Aracely Condori** - [@AracelyCondoriT](https://github.com/AracelyCondoriTipola)
+* **Nina Mayumi**    - [@YumiNina](https://github.com/YumiNina)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/Ro-Nel/Pet-Angels/graphs/contributors) quienes han participado en este proyecto. 
+
+
  
   # ANALISIS DE FACTIBILIDAD
  
 ## Factibilidad Tecnica
-- factibilidad tecnica - Nelson
 #### Disponibilidad de tecnologia, conocimiento y habilidades para desarrollar el proyecto: <br />	
 
 * Front-end: Vue.js	
@@ -48,16 +59,13 @@ Informar a los usuarios sobre informaciòn comfiable sobre el cuidado y la atenc
 
 
 ## Factibilidad Economica
-- Factibilidad Economica - Aracely
 
 Para el costo del desarrollo de la aplicación tomará en cuenta:
 Cantidad de horas invertidas.
 Equipos para el soporte de software de desarrollo.
 Por otra parte ya que no contaremos con varias Clinicas Vererinarias pero si con el cuidado de mascotas.
 
-## Factibilidad Organizacional 
-
-Habilidades requeridas por los integrantes del proyecto
+## Factibilidad Organizacional (Habilidades requeridas por los integrantes del proyecto)
 
 * CREATIDAD
 
@@ -117,7 +125,6 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 
 
 ## Sponsor
-- Sponsor -Aracely
 
  Inicialmente los patrocinadores del proyecto sera nuestro padres debido aun principio no gerara ingresos economicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clinicas vererinarias para que puedan brindar su servio de atencion a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, asi brindar servicio en los demas departamentos y no solo en La Paz. 
 
@@ -127,8 +134,6 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 
 
 ## Bussiness Requierements
-- Bussines Requierements -Nelson
-
 
 - Pagina Web
 - Base de Datos en la nube
@@ -152,7 +157,6 @@ tambien se espera un ingreso por cada reserva de cita que haga el cliente con la
 	* mont por cada clinica nueva registrada
 
 ## Special Issues Or Constraints
-- Special Issues Or Constraints - Aracely
 
 El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea mas fácil.
 El mercado para un principio solo sera abarcado por un sitio web.
@@ -163,7 +167,3 @@ Falta de monitoreo del los voluntarias que estaran cuidando a las mascotas en ti
 
 Ofrecer el servicio de Cosultas 24/7.
 
-## Autores ✒️
-* **Saravia Rodrigo** - [@Ro-Nel](https://github.com/Ro-Nel)
-* **Aracely Condori** - [@AracelyCondoriT](https://github.com/AracelyCondoriTipola)
-* **Nina Mayumi**    - [@YumiNina](https://github.com/YumiNina)
