@@ -82,6 +82,13 @@ satisfacción de los integrantes que conforman el equipo, de modo que se manifie
 adopción de comportamientos como la escucha atenta y el entendimiento de los diferentes
 puntos de vista.
 
+ RESPONSABILIDAD 
+ 
+Responsabilidad individual: Cada uno tiene que tener claro y en el máximo nivel, su responsabilidad propia e individual. 
+El trabajo en equipo comienza por uno mismo y hay que ser muy responsable en conocer cuáles son las tareas de cada uno y desempeñarlas de manera competente.
+
+Responsabilidad con el equipo: Porque en un grupo, cada integrante debe tener un nivel muy elevado de responsabilidad y compromiso con el equipo. 
+Sin esto, nada va a funcionar porque cada uno irá por su lado sin pensar en el conjunto.
 
 System Request
 
