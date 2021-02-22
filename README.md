@@ -130,6 +130,15 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
 - Bussines Requierements -Nelson
 
 
+- Pagina Web
+- Base de Datos en la nube
+- Autentificaciòn de usuarios
+- Seguridad:
+	- Acceso a la plataforma para cualquier persona, Pero Para una consulta personas mayores de 18 años.
+	- Acceso a GPS para la informaciòn de las clinicas
+	- Registro de Voluntarios para el buen cuidado de las mascotas
+
+
 ## Bussiness Value
 
  Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la pagina web,
