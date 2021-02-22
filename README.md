@@ -106,6 +106,12 @@ En realidad, la flexibilidad es una cualidad que debe acompañar a todos aquello
 Sin embargo, los lenguajes de programación son cambiantes y a veces, para un mismo proyecto es necesario tener conocimientos sobre una gran variedad de campos.
  Además, los entornos son extremadamente cambiantes y los buenos desarrolladores deben exigirse aprender cosas nuevas constantemente y no solo sobre programación,
  sino también acerca de todos aquellos campos en los que han de aplicarse sus tecnologías.
+ 
+ MOTIVACION
+ 
+Hay que tener motivación para querer hacer las cosas bien, pero además, hacerlo motivado e ilusionado.
+ Porque pasamos más de la mitad de nuestra vida trabajando, y qué mejor que hacerlo con una actitud positiva.
+ 
 
 System Request
 
