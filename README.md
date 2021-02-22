@@ -16,7 +16,9 @@ Proyecto (Angeles de Mascotas)
 ►  
 
 ►  
+  # ANALISIS DE FACTIBILIDAD
  
+## Factibilidad Tecnica
 - factibilidad tecnica - Nelson
 #### Disponibilidad de tecnologia, conocimiento y habilidades para desarrollar el proyecto: <br />	
 
