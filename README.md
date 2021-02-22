@@ -1,11 +1,11 @@
 # Pet-Angels
 Proyecto (Angeles de Mascotas)
 ## Descripción del proyecto 🚀
-(Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población un alternativa de servicios prestados por medio de una plataforma web.
+(Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población una alternativa de servicios prestados por medio de una plataforma web.
 
-Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva a cado en las clinicas veterinarias , logrando nrindar un mejor servicio a los clientes.
+Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva a cado en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes.
 
-Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clinicas certificadas que se encuentren afiliados a la plataforma.
+Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
 
 ## Antecedentes y Problemática 📋
 En los ultimos años las personas an estado recurriendo a las veterinarias mas cercanas a su domicilio para la atencion de sus mascotas tanto rutinarias como de emergencias, ademas muchas personas solo preguntan como se los deben cuidar o que remedios caseros darles a sus mascotas, cuando hoy en dia la mayoria de las personas piensan que el cuidado de las mascotas es la misma que la de las personas y lo cuidan o tratan de una manera incorrecta, es decir no existe un manual o alguna guia que puedan consultar al alcance de cualquiera y consultas sobre la misma.
