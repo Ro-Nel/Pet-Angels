@@ -65,8 +65,8 @@ System Request
  Inicialmente los patrocinadores del proyecto sera nuestro padres debido aun principio no gerara ingresos economicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clinicas vererinarias para que puedan brindar su servio de atencion a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, asi brindar servicio en los demas departamentos y no solo en La Paz. 
 
 ## Bussiness Need
-- Bussiness Need -mayumi
-  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet 	
+- Bussiness Need 
+  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atencion a los clientes existentes mediante el uso de la plataforma de citas por internet.	
 
 
 ## Bussiness Requierements
@@ -93,5 +93,6 @@ Ofrecer el servicio de Cosultas 24/7.
 
 ## Autores ✒️
 * **Saravia Rodrigo** - [@Ro-Nel](https://github.com/Ro-Nel)
+* ** Nina Mayumi**    - [@YumiNina] 
 
 
