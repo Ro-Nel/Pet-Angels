@@ -55,7 +55,14 @@ Cantidad de horas invertidas.
 Equipos para el soporte de software de desarrollo.
 Por otra parte ya que no contaremos con varias Clinicas Vererinarias pero si con el cuidado de mascotas.
 
-- Factibilidad Organizacional - Mayumi
+- Factibilidad Organizacional 
+
+Habilidades requeridas por los integrantes del proyecto
+
+CREATIDAD
+La creatividad es un factor imprescindible a la hora de trabajar en el desarrollo de aplicaciones. 
+Si bien la parte del desarrollo es rígida y los procesos deben ejecutarse al milímetro, ser creativos es fundamental para innovar.
+
 
 System Request
 
