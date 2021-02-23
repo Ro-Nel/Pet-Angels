@@ -1,24 +1,26 @@
 # Pet-Angels
 Proyecto (Angeles de Mascotas)
 ## Descripción del proyecto 🚀
-(Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población una alternativa de servicios prestados por medio de una plataforma web.
-Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva a cado en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes.
+
+(Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población una alternativa, mediante la atención por la plataforma web.
+Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva acabó en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes. Contando con el opoyo de los voluntarios que estaran al cuidado de las mascotas.
 Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
 
 ## Antecedentes y Problemática 📋
 
 
-En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, además muchas personas solo preguntan cómo se los deben cuidar o que remedios caseros darles a sus mascotas, cuando hoy en día la mayoría de las personas piensan que el cuidado de las mascotas es la misma que la de las personas y lo cuidan o tratan de una manera incorrecta, es decir no existe un manual o alguna guía que puedan consultar al alcance de cualquiera y consultas sobre la misma.
+En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, inclusive muchas personas solo preguntan cómo se los deben cuidar y que remedios caseros dar a su mascota. Hoy en día la mayoría de las personas creen que el cuidado de las mascotas, es la misma que se da a las personas. Los cuidan y tratan de una manera incorrecta. No existe  una pagina confiable la cual se pueda recurrir en caso de emergencia para su mascota. Debido a este problema recurren a veterinarias no certificadas, dando un mal diagnostico provocando la negligencia médica.  
 
 
 ## Objetivo General ⌨️
-Informar a los usuarios sobre información confiable sobre el cuidado y la atención de las mascotas en una plataforma confiable para los usuarios.
+
+Informar a los usuarios sobre información confiable del cuidado y la atención de las mascotas en una plataforma confiable para los usuarios (Dueños).
 
 ## Objetivos Específicos 📦
 
 ►  Información confiable de la crianza y cuidado de las mascotas.
 
-►  Contacto directo con clínicas certificadas.
+►  Contacto directo con clínicas certificadas en Bolivia.
 
 ►  Realizar una plataforma con todas las medidas de seguridad y autentificación de los usuarios.
 
