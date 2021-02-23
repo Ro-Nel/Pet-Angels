@@ -39,45 +39,77 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Sponsor
 
-Inicialmente los patrocinadores del proyecto serán nuestro padres debido aun principio no generara ingresos económicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clínicas veterinarias para que puedan brindar su servicio de atención a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, así brindar servicio en los demás departamentos y no solo en La Paz. 
+Inicialmente el patrocinador del proyecto será el Dr. Ernesto Omar Campohermoso Alcon. 
 
 ## Bussiness Need
 
-  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atención a los clientes existentes mediante el uso de la plataforma de citas por internet para la atención de sus mascotas.
+  Este proyecto se ha iniciado para llegar a nuevos clientes con acceso a internet y mejorar la atención existente mediante el uso de la plataforma web para la atención de sus mascotas.
 
 
 ## Bussiness Requierements
 
-- Pagina Web
-- Base de Datos en la nube
-- Autentificación de usuarios
-- Seguridad:
-	- Acceso a la plataforma para cualquier persona, Pero Para una consulta personas mayores de 18 años.
-	- Acceso a GPS para la información de las clínicas
-	- Registro de Voluntarios para el buen cuidado de las mascotas
+### Usuarios
+- Administrador
+- Voluntarios
+- Clínicas
+- Paciente
+- Dueño
+### Requerimientos funcionales
+  Codigo: RF-1
+  Tipo: Requerimiento Registro de Usuarios
+  Prioridad: Alta
+  Nombre: Registro
+  Funcionalidad: Mediante este se registrara los datos de usuario.
+  Entrada: Ci + Nombre + Apellido + Numero de Celular + Direccion + Especilidad
+  Salida: Nombre de Usuario.
+  
+  Codigo: RF-2
+  Tipo: Requerimiento de Verificación del paciente
+  Prioridad: Media
+  Nombre: Verificación del paciente.
+  Funcionalidad: Busqueda de paciente.
+
+  Codigo: RF-3
+  Tipo: Gestión de Datos
+  Prioridad: Media
+  Nombre: Almacenamiento de Datos.
+  Funcionalidad: Almacenamiento.
+  
+### Requerimientos No funcionales
+  Codigo: RNF-1
+  Tipo: Geolocalización.
+  Nombre: Ubicación
+  Funcionalidad: La plataforma brindara la ubicación.
+  
+  Codigo: RNF-2
+  Tipo:  Requerimiento de Conexión
+  Nombre: Conexión a Internet
+  Funcionalidad: La Plataforma debera con un acceso a Intenert.
+  
+  Codigo: RNF-3
+  Tipo: Requerimiento de Interfaz de usuario
+  Nombre: Interfaz
+  Funcionalidad: Las interfaces brindar un manejo sencillo de la plataforma.
 
 
 ## Bussiness Value
 
- Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la página web,
- la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota.
-Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la aplicación web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
+ Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la plataforma web,
+ la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota y/o servicio de guarderia.
+ Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la plataforma web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
 	
 	Las estimaciones del valor tangible para la aplicación web son los siguientes:
-	*  monto por cada reserva de cita
-	* monto por cada registro nuevo de cliente
-	* monto por cada clínica nueva registrada
+	* monto por cada (30%) reserva de cita
+	* monto por (100%) el servio de guarderia
+	* monto por (50%)cada 5 años de clínica nueva registrada
 
 ## Special Issues Or Constraints
 
-El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea más fácil.
-El mercado aun principio solo será abarcado por la aplicación web.
-
-Poca ganancia en el principio del proyecto debido a la falta de propaganda
-Falta de un chat de comunicación con los clientes que desean consultar la angustia de su mascota.
-Falta de monitoreo del los voluntarias que estarán cuidando a las mascotas, en tiempo real debido a la falta de sistemas GPS.
-
-Ofrecer el servicio de Consultas 24/7.
+* El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la plataforma web pueda tener cierta popularidad y sea más fácil.
+* Poca ganancia aun principio del proyecto debido a la falta de propaganda.
+* Falta de comunicación con los clientes que desean consultar el problema.
+* Falta de monitoreo del los voluntarios que estarán al cuidado de las mascotas.
+* Ofrecer el servicio de Consultas y/o emergencias 24/7.
 
  
   # ANÁLISIS DE FACTIBILIDAD
@@ -107,14 +139,27 @@ Ofrecer el servicio de Consultas 24/7.
 * Resolución mínima: 1440x900.	
 * Procesador: Core i7.	
 
-
-
 ## Factibilidad Económica
 
 Para el costo del desarrollo de la aplicación tomará en cuenta:
-Cantidad de horas invertidas.
-Equipos para el soporte de software de desarrollo.
-Por otra parte ya que no contaremos con varias Clínicas Veterinarias pero si con el cuidado de mascotas.
+- Inverción de 30,000 $
+- Cantidad ganada en 5 años 60,000 $
+
+###Formula
+ROI = 	Gain from Investment - Cost of Investment
+		Cost of Investment
+
+           60,000 - 30,000 
+	        30,000
+           
+	ROI =  100.00%      
+	      
+Investment Gain	$30,000.00
+ROI	100.00%
+Annualized ROI	14.87%
+Investment Length	5.00 years
+
+
 
 ## Factibilidad Organizacional (Habilidades requeridas por los integrantes del proyecto)
 
