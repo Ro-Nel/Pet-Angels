@@ -34,6 +34,50 @@ Informar a los usuarios sobre información confiable del cuidado y la atención 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/Ro-Nel/Pet-Angels/graphs/contributors) quienes han participado en este proyecto. 
 
+# System Request
+
+
+## Sponsor
+
+Inicialmente los patrocinadores del proyecto serán nuestro padres debido aun principio no generara ingresos económicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clínicas veterinarias para que puedan brindar su servicio de atención a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, así brindar servicio en los demás departamentos y no solo en La Paz. 
+
+## Bussiness Need
+
+  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atención a los clientes existentes mediante el uso de la plataforma de citas por internet para la atención de sus mascotas.
+
+
+## Bussiness Requierements
+
+- Pagina Web
+- Base de Datos en la nube
+- Autentificación de usuarios
+- Seguridad:
+	- Acceso a la plataforma para cualquier persona, Pero Para una consulta personas mayores de 18 años.
+	- Acceso a GPS para la información de las clínicas
+	- Registro de Voluntarios para el buen cuidado de las mascotas
+
+
+## Bussiness Value
+
+ Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la página web,
+ la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota.
+Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la aplicación web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
+	
+	Las estimaciones del valor tangible para la aplicación web son los siguientes:
+	*  monto por cada reserva de cita
+	* monto por cada registro nuevo de cliente
+	* monto por cada clínica nueva registrada
+
+## Special Issues Or Constraints
+
+El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea más fácil.
+El mercado aun principio solo será abarcado por la aplicación web.
+
+Poca ganancia en el principio del proyecto debido a la falta de propaganda
+Falta de un chat de comunicación con los clientes que desean consultar la angustia de su mascota.
+Falta de monitoreo del los voluntarias que estarán cuidando a las mascotas, en tiempo real debido a la falta de sistemas GPS.
+
+Ofrecer el servicio de Consultas 24/7.
 
  
   # ANÁLISIS DE FACTIBILIDAD
@@ -128,48 +172,5 @@ Hay que tener motivación para querer hacer las cosas bien, pero además, hacerl
  Porque pasamos más de la mitad de nuestra vida trabajando, y qué mejor que hacerlo con una actitud positiva.
  
 
-# System Request
 
-
-## Sponsor
-
-Inicialmente los patrocinadores del proyecto serán nuestro padres debido aun principio no generara ingresos económicos. Sin embargo, una vez concretado el sitio web el proyecto se buscará mas las clínicas veterinarias para que puedan brindar su servicio de atención a mascotas. En un futuro siendo una página reconocida podríamos expandir en el mercado, así brindar servicio en los demás departamentos y no solo en La Paz. 
-
-## Bussiness Need
-
-  Este proyecto se ha iniciado para llegar a nuevos clientes de internet y mejorar la atención a los clientes existentes mediante el uso de la plataforma de citas por internet para la atención de sus mascotas.
-
-
-## Bussiness Requierements
-
-- Pagina Web
-- Base de Datos en la nube
-- Autentificación de usuarios
-- Seguridad:
-	- Acceso a la plataforma para cualquier persona, Pero Para una consulta personas mayores de 18 años.
-	- Acceso a GPS para la información de las clínicas
-	- Registro de Voluntarios para el buen cuidado de las mascotas
-
-
-## Bussiness Value
-
- Esperamos que PET ANGELS incremente los cuidados de las mascotas al permitir que los clientes(dueños) realicen la reserva de las citas mediante la página web,
- la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota.
-Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la aplicación web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
-	
-	Las estimaciones del valor tangible para la aplicación web son los siguientes:
-	*  monto por cada reserva de cita
-	* monto por cada registro nuevo de cliente
-	* monto por cada clínica nueva registrada
-
-## Special Issues Or Constraints
-
-El contacto con los voluntarios para el cuidado de mascotas será después de una primera versión para que la aplicación pueda tener cierta popularidad y sea más fácil.
-El mercado aun principio solo será abarcado por la aplicación web.
-
-Poca ganancia en el principio del proyecto debido a la falta de propaganda
-Falta de un chat de comunicación con los clientes que desean consultar la angustia de su mascota.
-Falta de monitoreo del los voluntarias que estarán cuidando a las mascotas, en tiempo real debido a la falta de sistemas GPS.
-
-Ofrecer el servicio de Consultas 24/7.
 
