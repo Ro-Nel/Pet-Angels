@@ -24,6 +24,30 @@ Informar a los usuarios sobre información confiable del cuidado y la atención 
 
 ►  Realizar una plataforma con todas las medidas de seguridad y autentificación de los usuarios.
 
+►  Las Diferentes Clínicas Suscritas tendran un perfil en la página Web.
+
+►  Descuento Preferencial para los voluntarios 
+
+►  Tener un post informativo de las clincas para su perfil como para la pagina princpal 
+
+►  Realizar un contrato de terminos y condiciónes sobre la relación de los administradores y los diferentes Usuarios de la Pagina.
+
+►  Pagina dirigida a personas que aman a los animales, Preferentemente Dueños de Mascotas.
+
+►  Cobro QR Suscripción y Guarderia
+
+►  Notificaciónes a l Whatsapp y correo de las clinicas por cualquier emergencia.
+
+►  Verificación de documentación de certificación de las clinicas que se afiliaran a la pagina
+
+►  Opciónes de comunicación con las clinicas(Whatsapp, Zoom, Meet, Discord, Telegram, Messengers)
+
+►  La Clinic adevera emitir un reporte de las mascotas que requieren un tratamiento/operación.
+
+►  Se dara el servicio de la pagina para todo tipo de mascota que tenga una atención certificada en las clinicas afiliadas
+
+►  Los perfiles tendran una sección de Comentarios y calificaiónes sobre sus consultas.
+
 
 
 
@@ -98,10 +122,11 @@ Inicialmente el patrocinador del proyecto será el Dr. Ernesto Omar Campohermoso
  la cual tendrán acceso a elegir una clínica confiable para la atención  de su mascota y/o servicio de guarderia.
  Esperamos una mayor interacción de los clientes con las clínicas  a travéz de la plataforma web, también se espera un ingreso por cada reserva de cita que haga el cliente con la clínica.
 	
-	Las estimaciones del valor tangible para la aplicación web son los siguientes:
-	* monto por cada (30%) reserva de cita
-	* monto por (100%) el servio de guarderia
-	* monto por (50%)cada 5 años de clínica nueva registrada
+	Las estimaciones del valor tangible sera mediante la publicación informativa de las clinicas en la pagina principal.
+
+
+	Las estimaciones del valor intangible sera sera la via de comunicación en consultas de emergencia via alguna plataforma de Videollamada.
+
 
 ## Special Issues Or Constraints
 
