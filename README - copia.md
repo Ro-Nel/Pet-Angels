@@ -2,13 +2,12 @@
 ## Link de Driver para mejor Revicion
 https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=sharing
 
-## Descripción del proyecto 🚀
+## Realizado por:📋
 
-(Pet-Angels) es una aplicación web que nace con el fin de ofrecer a la población una alternativa, mediante la atención por la plataforma web.
-Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva acabó en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes. Contando con voluntarios que estaran al cuidado de las mascotas con el servicio de guarderia, los cuales tendran un acceso al descuento Angels.
-Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
+1. Condori Tipola Gael Aracely
+2. Saravia Alquez Rodrigo Nelson
+3. Nina Urquiola Yuvinca Mayumi
 
-## Antecedentes y Problemática 📋
 
 ## Introducción
 En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, inclusive muchas personas solo preguntan cómo se los deben cuidar y qué remedios caseros dar a su mascota. Hoy en día la mayoría de las personas creen que el cuidado de las mascotas, es la misma que se da a las personas. Los cuidan y tratan de una manera incorrecta. No existe una página confiable la cual se pueda recurrir en caso de emergencia para su mascota. Debido a este problema recurren a veterinarias no certificadas, dando un mal diagnóstico provocando la negligencia médica.
@@ -24,21 +23,21 @@ El presente documento está dirigido al stakeholder para que este pueda ver una 
 ## Historias de Usuario
 Inicio de Sesión 
 
-Número: 1
-Usuario: Cliente
+**Número**: 1
+**Usuario**: Cliente
 
-Nombre de historia: Inicio de Sesión Veterinario- Dueño
+**Nombre de historia**: Inicio de Sesión Veterinario- Dueño
 
-Prioridad en negocio: Alta
+**Prioridad en negocio**: Alta
 
-Riesgo de desarrollo: Bajo
+**Riesgo de desarrollo**: Bajo
 
-Programador responsable: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
 
-Validación: Los veterianarios podrán tener acceso a este módulo.
+**Validación**: Los veterianarios podrán tener acceso a este módulo.
 
 
-<p align="center"><img src="https://share.balsamiq.com/c/pzpHzTPfa7NsMetXuHgE5x.png" width="600"></p>
+<p align="center"><img src="https://share.balsamiq.com/c/bAUr6AHGH5Y4PgdxyjXzxq.png" width="600"></p>
 <p align="center">Fig-001</p>
 Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
 
