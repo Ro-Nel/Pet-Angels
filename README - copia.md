@@ -32,7 +32,7 @@ Riesgo de desarrollo: Bajo
 Programador responsable: Rodrigo Saravia, Aracely Condori, Mayumi Nina
 Validación: Los veterianarios podrán tener acceso a este módulo.
 
-
+¡[](https://share.balsamiq.com/c/pzpHzTPfa7NsMetXuHgE5x.png)
 Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
 
 
