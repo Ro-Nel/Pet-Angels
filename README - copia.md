@@ -41,4 +41,32 @@ Inicio de Sesión
 <p align="center">Fig-001</p>
 Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
 
+**Número**: 2
+
+**Usuario**: Cliente
+
+**Nombre de historia**: Registro de Usuario Paciente y Dueño
+
+**Prioridad en negocio**: Alta
+
+**Riesgo de desarrollo**: Bajo
+
+**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación**: Los clientes podrán tener acceso a este módulo.
+
+
+Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
+
+<p align="center"><img src="https://share.balsamiq.com/c/3iiMRVSCFj64dN4qhzybrj.png" width="600"></p>
+<p align="center">Figura 2. Registro de Usuario Paciente y Dueño</p>
+En la figura 2 se muestra el registro de usuario Paciente y Dueño con los campos a llenar
+
+<p align="center"><img src="https://share.balsamiq.com/c/7zbxgFknNQZCAi7VkksmNV.png" width="600"></p>
+<p align="center">Diagrama 2. Registrar Usuario</p>
+
+
+Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png?raw=true" width="600"></p>
+<p align="center">Figura 3. Confirmación de Registro Dueño-Paciente</p>
 
