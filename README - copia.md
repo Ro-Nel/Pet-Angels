@@ -26,15 +26,20 @@ Inicio de Sesión
 
 Número: 1
 Usuario: Cliente
+
 Nombre de historia: Inicio de Sesión Veterinario- Dueño
+
 Prioridad en negocio: Alta
+
 Riesgo de desarrollo: Bajo
+
 Programador responsable: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
 Validación: Los veterianarios podrán tener acceso a este módulo.
+
 
 <p align="center"><img src="https://share.balsamiq.com/c/pzpHzTPfa7NsMetXuHgE5x.png" width="600"></p>
 <p align="center">Fig-001</p>
-¡[](https://share.balsamiq.com/c/pzpHzTPfa7NsMetXuHgE5x.png)
 Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
 
 
