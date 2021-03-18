@@ -265,5 +265,21 @@ Descripción:  La aplicación muestra la interfaz al momento de realizar la conv
 <p align="center">Figura 26. Detalles de una conversación en el ChatBot.</p>
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
+## 4.5 Registro de Publicidad
+
+** Número ** :  5 
+
+** Usuario ** :  Cliente 
+
+** Nombre de historia ** :  Registro de Marca 
+
+** Prioridad en negocio ** : Alta 
+
+** Riesgo de desarrollo ** : Bajo 
+
+** Programador responsable ** :  Rodrigo Saravia, Aracely Condori, Mayumi Nina 
+
+** Validación ** : Los clientes podrán tener acceso a este módulo. 
+
 Descripción:  La aplicación muestra la interfaz de tipo de Registro de la Marca cuando se despliega una lista entre los cuales de tercero está el Registro de Marca el cual redirecciona al módulo de registro con los siguientes campos a ser llenados: Nombre de la empresa(obligatorio), Nombre de la Marca(obligatorio), Duraciòn(obligatorio), Teléfono/celular (obligatorio), Nombre del anuncio(obligatorio), Imagen de la publicidad(obligatorio), Método de Pago(Selecciòn) el cual el usuario tiene que llenar.
 
