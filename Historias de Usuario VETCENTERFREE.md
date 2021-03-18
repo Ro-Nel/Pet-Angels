@@ -1,6 +1,5 @@
 
-## Índice General
-
+# Índice General
 ## Índice General
 
 ## Índice de figuras
