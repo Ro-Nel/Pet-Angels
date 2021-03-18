@@ -143,10 +143,47 @@ Inicio de Sesión
 
 **Validación**: Los veterianarios podrán tener acceso a este módulo.
 
+**Descripción**:  La página principal (Figura 1) nos permite visualizar una interfaz amigable, el usuario tendrá que “INICIA SESIÓN” que se encuentra en la barra de navegación para así poder navegar en la plataforma VetCenterFREE.
 
-<p align="center"><img src="https://share.balsamiq.com/c/bAUr6AHGH5Y4PgdxyjXzxq.png" width="600"></p>
-<p align="center">Fig-001</p>
-Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio.png" width="600"></p>
+<p align="center">**Figura 1. Página Principal**</p>
+
+En la figura 1 se muestra la interfaz de una previsualización de la página principal, con una publicidad del 40% de la pantalla, una barra de navegación con los diferentes módulos de la plataforma en la parte superior, por debajo del buscador. Información o descripción sobre la plataforma y de los Veterinarios que se encuentren actualmente registrados.
+
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con los campos de “Nombre de Usuario” y “Contraseña”, una vez llenado los campos correspondientes presionar el botón “Iniciar” para ingresar con una cuenta registrada.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio%20de%20sesi%C3%B3n.png" width="600"></p>
+<p align="center">**Figura 2. Inicio de Sesión**</p>
+
+En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro en la parte central con dos campos para el “Nombre de Usuario” y la “Contraseña”, un botón “Iniciar” que permite ingresar, y un enlace color celeste “Olvidé mi Contraseña”que permite redireccionar a módulo de recuperación de contraseña, Por debajo del recuadro existen dos botones “Cancelar” Que permite volver a la página principal y “Registrarse” que permite redireccionar al módulo de registro de usuario.
+
+
+
+##
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Pet-Angels%20Inicio.png" width="600"></p>
+<p align="center">**Diagrama 1. Inicio de Sesión**</p>
+
+En el Diagrama 1 se muestran los procesos de inicio de sesión, que se realizarán tanto por parte del usuario como la de interfaz de la plataforma. 
+
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada%20-%20Fallido.png" width="600"></p>
+<p align="center">**Figura 3. Intentos fallidos**</p>
+
+En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada%20-%20Fallido.png" width="600"></p>
+<p align="center">**Figura 3. Intentos fallidos**</p>
+
+En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
+
+
+
 
 **Número**: 2
 
@@ -179,57 +216,12 @@ Descripción:  La aplicación muestra la interfaz de confirmación de registro a
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png?raw=true" width="600"></p>
 <p align="center">Figura 3. Confirmación de Registro Dueño-Paciente</p>
 
-## Tips
-
-**Número**: 8
-
-**Usuario**: Cliente
-
-**Nombre de historia**: Tips
-
-**Prioridad en negocio**: Alta
-
-**Riesgo de desarrollo**: Bajo
-
-**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: Para que los clientes tengan acceso a toda la información del módulo de tips  .
-
-
-Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios y mascotas.
-
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
-<p align="center">Figura 22. Detalles de la sección de tips.</p>
-En la figura 13 se puede observar el módulo de tips que se brindará a los clientes para el bien de sus mascotas 
-
-## Sobre Nosotros
-
-**Número**: 9
-
-**Usuario**: Cliente
-
-**Nombre de historia**: Sobre Nosotros
-
-**Prioridad en negocio**: Alta
-
-**Riesgo de desarrollo**: Bajo
-
-**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: El cliente visualiza  la información y fotografías de todo el equipo VetCenterFree que se encuentra en el módulo Sobre Nosotros
-
-
-Descripción:  La aplicación muestra los todos los datos informativos de los que crearon la página, presionando en el botón “Sobre Nosotros”
-
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/SobreNosotros.png"></p>
-<p align="center">Figura 23. Detalles de módulo sobre nosotros.</p>
-En la figura 23 se muestra a los integrantes que realizaron la Página y una breve descripción de ellos y su trabajo, más una apartado de publicidad.
 
 
 
 
 
-##  ChatBot
+##ChatBot
 
 **Número**: 10
 
@@ -266,12 +258,3 @@ Descripción:  La aplicación muestra la interfaz al momento de realizar la conv
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
 
-## 4.5 Registro de Publicidad
-
-** Número ** :  5
-** Usuario ** :  Cliente
-** Nombre de historia ** :  Registro de Marca
-** Prioridad en negocio ** : Alta
-** Riesgo de desarrollo ** : Bajo
-** Programador responsable ** :  Rodrigo Saravia, Aracely Condori, Mayumi Nina
-** Validación ** : Los clientes podrán tener acceso a este módulo.
