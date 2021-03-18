@@ -1,19 +1,19 @@
 
-#Índice General
+## Índice General
 
-#Índice General
+## Índice General
 
-#Índice de figuras
+## Índice de figuras
 
-#Índice de Diagramas
+## Índice de Diagramas
 
-#Introducción
+## Introducción
 
-#Objetivos	
+## Objetivos	
 
-#A Quién va está dirigido	
+## A Quién va está dirigido	
 
-#Historias de Usuarios	
+## Historias de Usuarios	
 
 01 - INICIO DE SESIÓ
 
@@ -41,7 +41,7 @@
 
 
 
-#Índice de Figuras
+## Índice de Figuras
 
 Figura 1: “Página principal”
 
@@ -98,7 +98,7 @@ Figura 26: “Detalles de Chatbot”
 
 
 
-#Índice de Diagramas
+## Índice de Diagramas
 
 Diagrama 1: Inicio de Sesión 	
 
