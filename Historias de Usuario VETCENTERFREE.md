@@ -220,4 +220,12 @@ Descripción:  La aplicación muestra la interfaz al momento de realizar la conv
 <p align="center">Figura 26. Detalles de una conversación en el ChatBot.</p>
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
+**4.5 Registro de Publicidad** 
 
+** Número**:  5
+** Usuario**:  Cliente
+** Nombre de historia**:  Registro de Marca
+** Prioridad en negocio**: Alta
+** Riesgo de desarrollo**: Bajo
+** Programador responsable**:  Rodrigo Saravia, Aracely Condori, Mayumi Nina
+** Validación**: Los clientes podrán tener acceso a este módulo.
