@@ -269,9 +269,16 @@ En la figura 26 se muestra la una conversación  y de respuestas o una posible a
 ## 4.5 Registro de Publicidad
 
 ** Número**:  5
-** Usuario**:  Cliente
-** Nombre de historia**:  Registro de Marca
-** Prioridad en negocio**: Alta
-** Riesgo de desarrollo**: Bajo
+
+** Usuario**:  cliente
+
+** Nombre de historia**:  Registro de marca
+
+** Prioridad en negocio**: alta
+
+** Riesgo de desarrollo**: bajo
+
 ** Programador responsable**:  Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
 ** Validación**: Los clientes podrán tener acceso a este módulo.
+
