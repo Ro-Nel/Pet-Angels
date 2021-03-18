@@ -203,7 +203,7 @@ Descripción:  La aplicación muestra la interfaz de confirmación de registro a
 
 Descripción:  La aplicación muestra la interfaz de Pantalla Principal de Ingreso en el que se podrá encontrar en la parte de baja de página en botón o espacio del chatBot. (¡Vamos a chatear!).
 
-<p align="center"><img src="   "></p>
+<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio.png  "></p>
 <p align="center">Figura 24. Pantalla principal. </p>
 En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y una lista de de veterinarios para poder realizar las consultas, en la parte inferior derecha se encuentra el Chatbot.
 
@@ -211,13 +211,13 @@ En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y un
 
 Descripción:  La aplicación muestra la interfaz al momento de Hacerle Chic al Chatbot, muestra la interacción que tiene con el usuario y la consulta que tiene acerca de su mascota"
 
-<p align="center"><img src="   "></p>
+<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Chatbot.png  "></p>
 <p align="center">Figura 25. Visualización del ChatBot .</p>
 En la figura 25 se muestra la respuesta o predisposición las 24 horas del día para resolver dudas comunes.
 
 Descripción:  La aplicación muestra la interfaz al momento de realizar la conversación con el cliente en el Chatbot.
 
-<p align="center"><img src="   "></p>
+<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Chatbot_2.png  "></p>
 <p align="center">Figura 26. Detalles de una conversación en el ChatBot.</p>
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
