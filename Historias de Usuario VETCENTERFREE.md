@@ -1,3 +1,112 @@
+
+#Índice General
+
+#Índice General
+
+#Índice de figuras
+
+#Índice de Diagramas
+
+#Introducción
+
+#Objetivos	
+
+#A Quién va está dirigido	
+
+#Historias de Usuarios	
+
+01 - INICIO DE SESIÓ
+
+02 - USUARIO	
+
+03 - REGISTROS DE USUARIO PACIENTE DUEÑO
+
+04 - REGISTRO DE USUARIO MÉDICO VETERINARIO 
+
+05 - PERFIL DE USUARIO “VETERINARIO”
+
+06 - REGISTRO DE PUBLICIDAD	
+
+07 - MÉTODO DE PAGO	
+
+08 - FORO DE CONSULTAS	
+
+09 - TIPS	
+
+10 - SOBRE NOSOTROS	
+
+12 - CHATBOT	
+
+
+
+
+
+#Índice de Figuras
+
+Figura 1: “Página principal”
+
+Figura 2: “Inicio de Sesión”	
+
+Figura 3: “Intentos fallidos”	
+
+Figura 4: “Validación exitosa”  
+
+Figura 5: “Página principal de Cliente”	
+
+Figura 6: “Página principal de Veterinario”	
+
+Figura 7: “Página principal de Veterinario”	
+
+Figura 8: “Validación de correo electrónico”	
+
+Figura 9: “Restablecer Contraseña”	
+
+Figura 10: “Confirmación de Registro Usuario”	
+
+Figura 11: “Confirmación de Registro de Usuario Dueño y Mascota”	
+
+Figura 12: “Registro de Mascota”	
+
+Figura 13: “Confirmación de Mascota”	
+
+Figura 14: “Confirmación de Registro de Dueño y Mascota”	
+
+Figura 15: “Registro de Usuario Medico Veterianario”  
+
+Figura 16: “Confirmación de Registro de Usuario Medico Veterinario”	
+
+Figura 17: “Perfil del Veterinario”	
+
+Figura 18: “Registro de Publicidad”	
+
+Figura 19: “Confirmación de registro de Publicidad”  
+
+Figura 20: “Foro de Consultas”  
+
+Figura 21: “Foro de Consultas” 
+
+Figura 22: “Nueva Consultas” 
+
+Figura 23: “Detalles de la sección de Tips” 
+
+Figura 24: “Página principal”   
+
+Figura 25: “Visualización de ChatBot” 
+
+Figura 26: “Detalles de Chatbot”   	
+
+
+
+
+#Índice de Diagramas
+
+Diagrama 1: Inicio de Sesión 	
+
+Diagrama 2: Registrar Usuario	
+
+
+
+
 # Historia de Usuarios
 ## Link de Driver para mejor Revicion
 https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=sharing
@@ -7,7 +116,6 @@ https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=shari
 1. Condori Tipola Gael Aracely
 2. Saravia Alquez Rodrigo Nelson
 3. Nina Urquiola Yuvinca Mayumi
-
 
 ## Introducción
 En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, inclusive muchas personas solo preguntan cómo se los deben cuidar y qué remedios caseros dar a su mascota.
