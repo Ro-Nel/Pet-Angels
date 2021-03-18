@@ -127,7 +127,7 @@ El objetivo del presente documento es mostrar una aproximación del proceso de l
 ## A quién está dirigido
 El presente documento está dirigido al stakeholder para que este pueda ver una aproximación de cómo sería el proceso de búsqueda de información sobre autos en el producto final.
 
-## Historias de Usuario
+##  Historias de Usuario
 Inicio de Sesión 
 
 **Número**: 1
@@ -173,6 +173,52 @@ En la figura 2 se muestra el registro de usuario Paciente y Dueño con los campo
 <p align="center">Diagrama 2. Registrar Usuario</p>
 
 
+
+
 Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png?raw=true" width="600"></p>
 <p align="center">Figura 3. Confirmación de Registro Dueño-Paciente</p>
+
+
+
+
+
+
+##ChatBot
+
+**Número**: 10
+
+**Usuario**: Cliente
+
+**Nombre de historia**: ChatBot 
+
+**Prioridad en negocio**: Alta
+
+**Riesgo de desarrollo**: Medio
+
+**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación**: Los clientes que desean consultar o tienen alguna angustia de su mascota podrán consultarlos mediante el chatBot.
+
+
+Descripción:  La aplicación muestra la interfaz de Pantalla Principal de Ingreso en el que se podrá encontrar en la parte de baja de página en botón o espacio del chatBot. (¡Vamos a chatear!).
+
+<p align="center"><img src="   "></p>
+<p align="center">Figura 24. Pantalla principal. </p>
+En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y una lista de de veterinarios para poder realizar las consultas, en la parte inferior derecha se encuentra el Chatbot.
+
+
+
+Descripción:  La aplicación muestra la interfaz al momento de Hacerle Chic al Chatbot, muestra la interacción que tiene con el usuario y la consulta que tiene acerca de su mascota"
+
+<p align="center"><img src="   "></p>
+<p align="center">Figura 25. Visualización del ChatBot .</p>
+En la figura 25 se muestra la respuesta o predisposición las 24 horas del día para resolver dudas comunes.
+
+Descripción:  La aplicación muestra la interfaz al momento de realizar la conversación con el cliente en el Chatbot.
+
+<p align="center"><img src="   "></p>
+<p align="center">Figura 26. Detalles de una conversación en el ChatBot.</p>
+En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
+
+
