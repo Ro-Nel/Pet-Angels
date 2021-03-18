@@ -130,6 +130,7 @@ El presente documento está dirigido al stakeholder para que este pueda ver una 
 ##  Historias de Usuario
 Inicio de Sesión 
 
+
 **Número**: 1
 **Usuario**: Cliente
 
@@ -143,10 +144,46 @@ Inicio de Sesión
 
 **Validación**: Los veterianarios podrán tener acceso a este módulo.
 
+**Descripción**:  La página principal (Figura 1) nos permite visualizar una interfaz amigable, el usuario tendrá que “INICIA SESIÓN” que se encuentra en la barra de navegación para así poder navegar en la plataforma VetCenterFREE.
 
-<p align="center"><img src="https://share.balsamiq.com/c/bAUr6AHGH5Y4PgdxyjXzxq.png" width="600"></p>
-<p align="center">Fig-001</p>
-Descripción:  La aplicación muestra la interfaz de inicio de sesión con los campos de “Nombre de Usuario” ,  “Correo Electrónico” y “Contraseña”, el módulo de Registrarse redireccionará a una nueva pestaña de Registro.
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio.png" width="600"></p>
+<p align="center">**Figura 1. Página Principal**</p>
+
+En la figura 1 se muestra la interfaz de una previsualización de la página principal, con una publicidad del 40% de la pantalla, una barra de navegación con los diferentes módulos de la plataforma en la parte superior, por debajo del buscador. Información o descripción sobre la plataforma y de los Veterinarios que se encuentren actualmente registrados.
+
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con los campos de “Nombre de Usuario” y “Contraseña”, una vez llenado los campos correspondientes presionar el botón “Iniciar” para ingresar con una cuenta registrada.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio%20de%20sesi%C3%B3n.png" width="600"></p>
+<p align="center">**Figura 2. Inicio de Sesión**</p>
+
+En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro en la parte central con dos campos para el “Nombre de Usuario” y la “Contraseña”, un botón “Iniciar” que permite ingresar, y un enlace color celeste “Olvidé mi Contraseña”que permite redireccionar a módulo de recuperación de contraseña, Por debajo del recuadro existen dos botones “Cancelar” Que permite volver a la página principal y “Registrarse” que permite redireccionar al módulo de registro de usuario.
+
+
+
+##
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Pet-Angels%20Inicio.png" width="600"></p>
+<p align="center">**Diagrama 1. Inicio de Sesión**</p>
+
+En el Diagrama 1 se muestran los procesos de inicio de sesión, que se realizarán tanto por parte del usuario como la de interfaz de la plataforma. 
+
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada%20-%20Fallido.png" width="600"></p>
+<p align="center">**Figura 3. Intentos fallidos**</p>
+
+En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
+
+**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada%20-%20Fallido.png" width="600"></p>
+<p align="center">**Figura 3. Intentos fallidos**</p>
+
+En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
+
+
 
 **Número**: 2
 
