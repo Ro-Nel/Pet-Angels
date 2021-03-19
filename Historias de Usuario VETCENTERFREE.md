@@ -224,19 +224,19 @@ Descripción: En la interfaz una vez que ya se haya validado el correo  electró
 
 ## Usuario 
 
-** Número:** 2
+** Número: ** 2
 
-** Usuario:** Cliente
+** Usuario: ** Cliente
 
-** Nombre de historia:** Registro de Usuario Paciente y Dueño
+** Nombre de historia: ** Registro de Usuario Paciente y Dueño
 
-** Prioridad en negocio:** Alta
+** Prioridad en negocio: ** Alta
 
-** Riesgo de desarrollo:** Alta
+** Riesgo de desarrollo: ** Alta
 
-** Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+** Programador responsable: ** Rodrigo Saravia, Aracely Condori, Mayumi Nina
 
-** Validación:** Los clientes podrán tener acceso a este módulo.
+** Validación: ** Los clientes podrán tener acceso a este módulo.
 
 Descripción: En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
 
