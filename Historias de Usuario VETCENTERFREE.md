@@ -246,19 +246,26 @@ Descripción: En la interfaz se puede observar que se tendrá las opciones de re
 
  En la figura 10 se muestra los registros los cuales podrá tener acceso el cliente
 
- ##Registro de Usuario Paciente y Dueño
+ ## Registro de Usuario Paciente y Dueño
 
 **Número:** 2
+
 **Usuario:** Cliente
+
 **Nombre de historia:** Registro de Usuario Paciente y Dueño
+
 **Prioridad en negocio:** Alta
+
 **Riesgo de desarrollo:** Bajo
+
 **Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
 **Validación:** Los clientes podrán tener acceso a este módulo.
+
 
 Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
 
-<p align="center"><img src=" "></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente.png"></p>
 <p align="center">**Figura 11. Registro de Usuario Paciente y Dueño**</p>
 
 
