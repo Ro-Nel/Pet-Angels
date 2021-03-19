@@ -365,7 +365,7 @@ En la figura 7 se muestra el perfil de usuario con todos los datos anteriormente
 
 En la figura 4, se muestran los datos llenados por el usuario para su posible edición y los botones para guardar cambios, así como descartarlos.
 
-Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redireccionará al módulo de pago, posteriormente le sale este Módulo cuando realice el pago.
+**Descripción:**  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redireccionará al módulo de pago, posteriormente le sale este Módulo cuando realice el pago.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20Registrado.png"></p>
 <p align="center">**Figura 19. Confirmación de registro de Publicidad **</p>
