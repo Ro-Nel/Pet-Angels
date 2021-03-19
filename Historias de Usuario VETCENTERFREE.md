@@ -434,6 +434,7 @@ En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Nueva Consulta**.</p>
 
+
  En la figura 21 se observa el procedimiento que se debe seguir para agregar una nueva consulta.
 
 ## Tips
@@ -457,6 +458,7 @@ En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
 **Descripción:**  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
+
 <p align="center">**Figura 22. Detalles de la sección de tips.**</p>
 
 En la figura 13 se puede observar el módulo de tips que se brindará a los clientes para el bien de sus mascotas 
