@@ -109,7 +109,7 @@ Diagrama 2: Registrar Usuario
 
 
 # Historia de Usuarios
-## Link de Driver para mejor Revicion
+## Link de Driver para mejor Revisión
 https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=sharing
 
 ## Realizado por:📋
@@ -120,7 +120,8 @@ https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=shari
 
 ## Introducción
 En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, inclusive muchas personas solo preguntan cómo se los deben cuidar y qué remedios caseros dar a su mascota.
-En la plataforma VETCENTERFREE se logrará crear consultas frecuentes y gratuitas sin costo alguno para poder consultar a los veterinarios registrados en el la plataforma.
+
+En la plataforma VETCENTERFREE se logrará crear consultas frecuentes y gratuitas sin costo alguno para poder consultar a los veterinarios registrados en la plataforma. Para consultas más detalladas el usuario se tendrá que registrar en la página.
 
 
 ## Objetivo del documento
