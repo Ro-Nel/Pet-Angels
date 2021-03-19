@@ -425,7 +425,9 @@ En la figura 20 se puede observar La consulta que un usuario realizó cada uno r
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Foro de Consultas.**</p>
+
 En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
+
 
 
 
