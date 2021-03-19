@@ -415,7 +415,10 @@ En la figura 9, se muestra una pantalla emergente señalandonos el correcto regi
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/ForoDeConsultas.png"></p>
 <p align="center">Figura 20. Foro de Consultas.</p>
+
 En la figura 20 se puede observar La consulta que un usuario realizó cada uno respectivo en su hilo y la Respuesta que un veterinario.
+
+
 
 
 **Descripción:**  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
