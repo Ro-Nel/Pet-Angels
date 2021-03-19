@@ -225,26 +225,47 @@ Descripción: En la interfaz una vez que ya se haya validado el correo  electró
 
 ## Usuario 
 
-**Número: ** 2
+**Número:** 2
 
-**Usuario: ** Cliente
+**Usuario:** Cliente
 
-**Nombre de historia: ** Registro de Usuario Paciente y Dueño
+**Nombre de historia:** Registro de Usuario Paciente y Dueño
 
-**Prioridad en negocio: ** Alta
+**Prioridad en negocio:** Alta
 
-**Riesgo de desarrollo: ** Alta
+**Riesgo de desarrollo:** Alta
 
-**Programador responsable: ** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+**Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
 
-**Validación: ** Los clientes podrán tener acceso a este módulo.
+**Validación:** Los clientes podrán tener acceso a este módulo.
 
 Descripción: En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
 
-<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Usuarios.png "></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Usuarios.png"></p>
 <p align="center">** Figura 10. Registro de Usuario**</p>
 
-En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que da la bienvenida al usuario al sistema
+ En la figura 10 se muestra los registros los cuales podrá tener acceso el cliente
+
+ ##Registro de Usuario Paciente y Dueño
+
+**Número:** 2
+**Usuario:** Cliente
+**Nombre de historia:** Registro de Usuario Paciente y Dueño
+**Prioridad en negocio:** Alta
+**Riesgo de desarrollo:** Bajo
+**Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+**Validación:** Los clientes podrán tener acceso a este módulo.
+
+Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
+
+<p align="center"><img src=" "></p>
+<p align="center">**Figura 11. Registro de Usuario Paciente y Dueño**</p>
+
+
+En la figura 11 se muestra el registro de usuario Paciente y Dueño con los campos a llenar
+
+
+
 
 
 En la figura 8  se muestra la interfaz de validación de correo, con un recuadro emergente en la parte central, para el ingreso de la contraseña restrablesidad al sistema.
