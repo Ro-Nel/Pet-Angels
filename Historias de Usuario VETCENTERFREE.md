@@ -200,8 +200,14 @@ Descripción:  La plataforma le mostrará la interfaz amigable para el usuario q
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/InicioSesion%20iniciada%20Veterinario.png"></p>
 <p align="center">**Figura 5. Página Principal de Cliente**</p>
 
+Descripción:  La plataforma le mostrará la interfaz amigable para el Veterinario que logró con éxito ingresar poniendo su nombre del cliente al final de la barra de pestañas.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/InicioSesion%20iniciada%20Veterinario.png"></p>
+<p align="center">**Figura 6. Página principal de Veterianrio**</p>
 
 
+
+En la figura 6 se muestra la interfaz de la pantalla principal después de ingresar exitosamente al sistema, Mostrándole al cliente una barra de pestañas en los cuales se visualiza los módulos “INICIO”, “CONSULTAS”, “TIPS”, “SOBRE-NOSOTROS”, “Veterinario”, “Clínica” y al final el nombre del cliente más una imagen. Por debajo de la barra se visualiza la publicidad que tendrá la página. En un recuadro podremos ver la los nombres de los veterinarios que están registrados y publicados por medio de su calificación de 5 estrellas dando una breve y concreta información de los mismos, con dos botones en cada uno de los recuadros de veterinarios “Consulta” y “Ver Perfil”, así mismo en el mismo recuadro se podrá realizar la búsqueda o selección de veterinarios por nombre o por ciudad.
 
 En la figura 5 se muestra la interfaz de la pantalla principal después de ingresar exitosamente al sistema, Mostrándole al cliente una barra de pestañas en los cuales se visualiza los módulos “INICIO”, “CONSULTAS”, “TIPS”, “SOBRE-NOSOTROS” y al final el nombre del cliente más una imagen. Por debajo de la barra se visualiza la publicidad que tendrá la página. En un recuadro podremos ver la los nombres de los veterinarios que están registrados y publicados por medio de su calificación de 5 estrellas dando una breve y concreta información de los mismos, con dos botones en cada uno de los recuadros de veterinarios “Consulta” y “Ver Perfil”, así mismo en el mismo recuadro se podrá realizar la búsqueda o selección de veterinarios por nombre o por ciudad.
 
