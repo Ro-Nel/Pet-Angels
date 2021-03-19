@@ -387,6 +387,7 @@ En la figura 9, se muestra una pantalla emergente señalandonos el correcto regi
 
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
+
 Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redirecciònara al módulo de pago.
 
 ##  Foro de Consultas
@@ -407,6 +408,7 @@ Descripción:  El usuario interesado en registrar su marca tiene que seleccionar
 
 
 Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
+
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/ForoDeConsultas.png"></p>
 <p align="center">Figura 20. Foro de Consultas.</p>
