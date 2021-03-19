@@ -2,6 +2,7 @@
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Caratula.jpeg"></p>
 
 # Índice General
+
 Índice General
 
  Índice de figuras
@@ -124,6 +125,7 @@ El objetivo del presente documento es mostrar una aproximación del proceso de l
 El presente documento está dirigido al stakeholder para que este pueda ver una aproximación de cómo sería el proceso de búsqueda de información sobre autos en el producto final.
 
 ##  Historias de Usuario
+
 Inicio de Sesión 
 
 
