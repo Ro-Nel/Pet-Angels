@@ -253,7 +253,7 @@ En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emer
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
 
-Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
+**Descripción:**  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
 
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente.png"></p>
@@ -267,7 +267,7 @@ En la figura 11 se muestra el registro de usuario Paciente y Dueño con los camp
 
 En el diagrama 2 se puede observar el procedimiento de registro de usuarios en este caso como ser: médico veterinario, marcas y dueños de las mascotas.
 
-Descripción : Para el registro de la mascota es necesario que primero cumpla con todos los datos del dueño, luego se procederá a ingresar los datos de la mascota cómo el nombre, tamaño, edad, color, raza, especie y sexo, también podra agregar el registro de más de una mascota si cuenta con más de una.
+**Descripción :** Para el registro de la mascota es necesario que primero cumpla con todos los datos del dueño, luego se procederá a ingresar los datos de la mascota cómo el nombre, tamaño, edad, color, raza, especie y sexo, también podra agregar el registro de más de una mascota si cuenta con más de una.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
 <p align="center">**Figura 12. Registro de la Mascota**</p>
