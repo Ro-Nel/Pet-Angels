@@ -2,19 +2,19 @@
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Caratula.jpeg"></p>
 
 # Índice General
-## Índice General
+Índice General
 
-## Índice de figuras
+ Índice de figuras
 
-## Índice de Diagramas
+ Índice de Diagramas
 
-## Introducción
+ Introducción
 
-## Objetivos	
+ Objetivos	
 
-## A Quién va está dirigido	
+ A Quién va está dirigido	
 
-## Historias de Usuarios	
+ Historias de Usuarios	
 
 01 - INICIO DE SESIÓ
 
