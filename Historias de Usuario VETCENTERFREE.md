@@ -361,52 +361,32 @@ Descripción:  La aplicación muestra la interfaz de tipo de Registro de la Marc
 <p align="center">Figura 18. Registro de Publicidad.</p>
 En la figura 4, se muestran los datos llenados por el usuario para su posible edición y los botones para guardar cambios, así como descartarlos.
 
-## Tips
+Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redireccionará al módulo de pago, posteriormente le sale este Módulo cuando realice el pago.
 
-**Número**: 8
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20confirmacion.png"></p>
+<p align="center">**Figura 19. Confirmación de registro de Publicidad **</p>
 
-**Usuario**: Cliente
-
-**Nombre de historia**: Tips
-
-**Prioridad en negocio**: Alta
-
-**Riesgo de desarrollo**: Bajo
-
-**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: Para que los clientes tengan acceso a toda la información del módulo de tips  .
+En la figura 9, se muestra una pantalla emergente señalandonos el correcto registro de la marca.
 
 
-Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios y mascotas.
-
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
-<p align="center">Figura 22. Detalles de la sección de tips.</p>
-En la figura 13 se puede observar el módulo de tips que se brindará a los clientes para el bien de sus mascotas 
-
-## Sobre Nosotros
-
-**Número**: 9
-
-**Usuario**: Cliente
-
-**Nombre de historia**: Sobre Nosotros
-
-**Prioridad en negocio**: Alta
-
-**Riesgo de desarrollo**: Bajo
-
-**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: El cliente visualiza  la información y fotografías de todo el equipo VetCenterFree que se encuentra en el módulo Sobre Nosotros
+## Método de Pago
 
 
-Descripción:  La aplicación muestra los todos los datos informativos de los que crearon la página, presionando en el botón “Sobre Nosotros”
+**Número:** 6
 
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/SobreNosotros.png"></p>
-<p align="center">Figura 23. Detalles de módulo sobre nosotros.</p>
-En la figura 23 se muestra a los integrantes que realizaron la Página y una breve descripción de ellos y su trabajo, más una apartado de publicidad.
+**Usuario:** Cliente
 
+**Nombre de historia:** Mètodo de pago de marca
+
+**Prioridad en negocio:** Baja
+
+**Riesgo de desarrollo:** Bajo
+
+**Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación:** Los clientes podrán tener acceso a este módulo.
+
+Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redirecciònara al módulo de pago.
 
 ##  Foro de Consultas
 
@@ -435,17 +415,63 @@ En la figura 20 se puede observar La consulta que un usuario realizó cada uno r
 Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
-<p align="center">Figura 21. Foro de Consultas.</p>
+<p align="center">**Figura 21. Foro de Consultas.**</p>
 En la figura 21, se muestran todos los datos a llenar para realizar el registro de su marca
 
 
 
-Descripción: 
+Descripción: Para agregar una nueva consulta se debe agregar el tema principal con una breve explicacion seleccionando la ciudad de dónde vive ya que por medio de la ciuada los Médicos veterinarios podran responder a su consulta.  
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
-<p align="center">Figura 21. Nueva Consulta.</p>
-En la figura 21, se muestran todos los datos a llenar para realizar el registro de su marca.
+<p align="center">**Figura 21. Nueva Consulta**.</p>
 
+
+## Tips
+
+
+**Número**: 8
+
+**Usuario**: Cliente
+
+**Nombre de historia**: Tips
+
+**Prioridad en negocio**: Alta
+
+**Riesgo de desarrollo**: Bajo
+
+**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación**: Para que los clientes tengan acceso a toda la información del módulo de tips  .
+
+
+Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios y mascotas.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
+<p align="center">**Figura 22. Detalles de la sección de tips.**</p>
+En la figura 13 se puede observar el módulo de tips que se brindará a los clientes para el bien de sus mascotas 
+
+## Sobre Nosotros
+
+**Número**: 9
+
+**Usuario**: Cliente
+
+**Nombre de historia**: Sobre Nosotros
+
+**Prioridad en negocio**: Alta
+
+**Riesgo de desarrollo**: Bajo
+
+**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación**: El cliente visualiza  la información y fotografías de todo el equipo VetCenterFree que se encuentra en el módulo Sobre Nosotros
+
+
+Descripción:  La aplicación muestra los todos los datos informativos de los que crearon la página, presionando en el botón “Sobre Nosotros”
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/SobreNosotros.png"></p>
+<p align="center">Figura 23. Detalles de módulo sobre nosotros.</p>
+En la figura 23 se muestra a los integrantes que realizaron la Página y una breve descripción de ellos y su trabajo, más una apartado de publicidad.
 
 
 
@@ -473,16 +499,16 @@ En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y un
 
 
 
-Descripción:  La aplicación muestra la interfaz al momento de Hacerle Chic al Chatbot, muestra la interacción que tiene con el usuario y la consulta que tiene acerca de su mascota"
+Descripción:  La aplicación muestra la interfaz al momento de Hacerle Click al Chatbot, muestra la interacción que tiene con el usuario y la consulta que tiene acerca de su mascota"
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Chatbot.png"></p>
-<p align="center">Figura 25. Visualización del ChatBot .</p>
+<p align="center">**Figura 25. Visualización del ChatBot **.</p>
 En la figura 25 se muestra la respuesta o predisposición las 24 horas del día para resolver dudas comunes.
 
 Descripción:  La aplicación muestra la interfaz al momento de realizar la conversación con el cliente en el Chatbot.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Chatbot_2.png"></p>
-<p align="center">Figura 26. Detalles de una conversación en el ChatBot.</p>
+<p align="center">**Figura 26. Detalles de una conversación en el ChatBot**.</p>
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
 
