@@ -270,7 +270,7 @@ Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario
 
 En la figura 11 se muestra el registro de usuario Paciente y Dueño con los campos a llenar
 
-<p align="center"><img src="https://share.balsamiq.com/c/7zbxgFknNQZCAi7VkksmNV.png"></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png"></p>
 <p align="center">Diagrama 2. Registrar Usuario</p>
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
