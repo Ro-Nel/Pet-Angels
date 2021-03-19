@@ -1,4 +1,6 @@
 
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Caratula.jpeg"></p>
+
 # Índice General
 ## Índice General
 
