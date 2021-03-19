@@ -219,6 +219,33 @@ Descripción:  Validación de contraseña cuando el usuario olvida su contraseñ
 
 Descripción: En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
 
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RestablecerContrase%C3%B1a.png  "></p>
+<p align="center">**Figura 9. Restablecer la contraseña **</p>
+
+## Usuario 
+
+** Número:** 2
+
+** Usuario:** Cliente
+
+** Nombre de historia:** Registro de Usuario Paciente y Dueño
+
+** Prioridad en negocio:** Alta
+
+** Riesgo de desarrollo:** Alta
+
+** Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+** Validación:** Los clientes podrán tener acceso a este módulo.
+
+Descripción: En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
+
+<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Usuarios.png "></p>
+<p align="center">** Figura 10. Registro de Usuario**</p>
+
+En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que da la bienvenida al usuario al sistema
+
+
 En la figura 8  se muestra la interfaz de validación de correo, con un recuadro emergente en la parte central, para el ingreso de la contraseña restrablesidad al sistema.
 
 
