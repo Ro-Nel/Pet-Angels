@@ -403,7 +403,7 @@ Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Foro de Consultas.**</p>
-En la figura 21, se muestran todos los datos a llenar para realizar el registro de su marca
+En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
 
 
 
@@ -412,6 +412,7 @@ Descripción: Para agregar una nueva consulta se debe agregar el tema principal 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Nueva Consulta**.</p>
 
+ En la figura 21 se observa el procedimiento que se debe seguir para agregar una nueva consulta.
 
 ## Tips
 
@@ -431,7 +432,7 @@ Descripción: Para agregar una nueva consulta se debe agregar el tema principal 
 **Validación**: Para que los clientes tengan acceso a toda la información del módulo de tips  .
 
 
-Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios y mascotas.
+Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
 <p align="center">**Figura 22. Detalles de la sección de tips.**</p>
@@ -496,7 +497,5 @@ Descripción:  La aplicación muestra la interfaz al momento de realizar la conv
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Chatbot_2.png"></p>
 <p align="center">**Figura 26. Detalles de una conversación en el ChatBot**.</p>
-En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
-
-
+En la figura 26 se muestra una conversación   de respuestas o una posible aproximación acerca de la mascota y los síntomas que tiene . El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
