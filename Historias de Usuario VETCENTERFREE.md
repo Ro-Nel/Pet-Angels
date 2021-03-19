@@ -228,6 +228,7 @@ En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emer
 
 Descripción: En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
 
+
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Usuarios.png"></p>
 <p align="center">** Figura 10. Registro de Usuario**</p>
 
@@ -249,7 +250,9 @@ Descripción: En la interfaz se puede observar que se tendrá las opciones de re
 
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
+
 Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
+
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente.png"></p>
 <p align="center">**Figura 11. Registro de Usuario Paciente y Dueño**</p>
