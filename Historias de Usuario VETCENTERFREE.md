@@ -157,23 +157,10 @@ En la figura 1 se muestra la interfaz de una previsualización de la página pri
 En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro en la parte central con dos campos para el “Nombre de Usuario” y la “Contraseña”, un botón “Iniciar” que permite ingresar, y un enlace color celeste “Olvidé mi Contraseña”que permite redireccionar a módulo de recuperación de contraseña, Por debajo del recuadro existen dos botones “Cancelar” Que permite volver a la página principal y “Registrarse” que permite redireccionar al módulo de registro de usuario.
 
 
-
-
-
-##
-
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Pet-Angels%20Inicio.png" width="600"></p>
 <p align="center">**Diagrama 1. Inicio de Sesión**</p>
 
 En el Diagrama 1 se muestran los procesos de inicio de sesión, que se realizarán tanto por parte del usuario como la de interfaz de la plataforma. 
-
-
-**Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
-
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada%20-%20Fallido.png" width="600"></p>
-<p align="center">**Figura 3. Intentos fallidos**</p>
-
-En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
 
 **Descripción**:  La plataforma le mostrará la interfaz de inicio de sesión con una ventana emergente de alerta reflejando 3 intentos fallidos
 
