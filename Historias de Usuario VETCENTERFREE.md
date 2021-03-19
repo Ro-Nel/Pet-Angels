@@ -391,7 +391,7 @@ En la figura 9, se muestra una pantalla emergente señalandonos el correcto regi
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
 
-Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redirecciònara al módulo de pago.
+**Descripción:**  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redirecciònara al módulo de pago.
 
 ##  Foro de Consultas
 
@@ -410,7 +410,7 @@ Descripción:  El usuario interesado en registrar su marca tiene que seleccionar
 **Validación**: Los clientes y los administradores podrán tener acceso a este módulo.
 
 
-Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
+**Descripción:**  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
 
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/ForoDeConsultas.png"></p>
@@ -418,7 +418,7 @@ Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante
 En la figura 20 se puede observar La consulta que un usuario realizó cada uno respectivo en su hilo y la Respuesta que un veterinario.
 
 
-Descripción:  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
+**Descripción:**  Una vez el usuario inicie sesión podrá hacer consultas mediante el Foro el cual podrá realizar cualquier pregunta y de la misma manera cualquier veterinario podrá responder y ayudar al usuario que consultó.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Foro de Consultas.**</p>
@@ -426,7 +426,7 @@ En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
 
 
 
-Descripción: Para agregar una nueva consulta se debe agregar el tema principal con una breve explicacion seleccionando la ciudad de dónde vive ya que por medio de la ciuada los Médicos veterinarios podran responder a su consulta.  
+**Descripción:** Para agregar una nueva consulta se debe agregar el tema principal con una breve explicacion seleccionando la ciudad de dónde vive ya que por medio de la ciuada los Médicos veterinarios podran responder a su consulta.  
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RespuestasDeForo.png"></p>
 <p align="center">**Figura 21. Nueva Consulta**.</p>
