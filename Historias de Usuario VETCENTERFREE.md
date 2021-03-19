@@ -451,10 +451,11 @@ En la figura 21, se muestran todos los comentarios que obtuvo una consulta.
 **Validación**: Para que los clientes tengan acceso a toda la información del módulo de tips  .
 
 
-Descripción:  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios.
+**Descripción:**  La aplicación muestra la interfaz de Tips para el  usuario en beneficio para su mascota en la cual el mismo puede obtener consejos sobre los cuidados respectivos para su mascota y algunas curiosidades que tengan las mascotas en la parte superior se podrá observar algunas fotografías de los veterinarios.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Tips.png"></p>
 <p align="center">**Figura 22. Detalles de la sección de tips.**</p>
+
 En la figura 13 se puede observar el módulo de tips que se brindará a los clientes para el bien de sus mascotas 
 
 ## Sobre Nosotros
@@ -474,10 +475,11 @@ En la figura 13 se puede observar el módulo de tips que se brindará a los clie
 **Validación**: El cliente visualiza  la información y fotografías de todo el equipo VetCenterFree que se encuentra en el módulo Sobre Nosotros
 
 
-Descripción:  La aplicación muestra los todos los datos informativos de los que crearon la página, presionando en el botón “Sobre Nosotros”
+**Descripción:**  La aplicación muestra los todos los datos informativos de los que crearon la página, presionando en el botón “Sobre Nosotros”
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/SobreNosotros.png"></p>
 <p align="center">Figura 23. Detalles de módulo sobre nosotros.</p>
+
 En la figura 23 se muestra a los integrantes que realizaron la Página y una breve descripción de ellos y su trabajo, más una apartado de publicidad.
 
 
