@@ -217,6 +217,8 @@ Descripción:  Validación de contraseña cuando el usuario olvida su contraseñ
 <p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RecuperarContrase%C3%B1a-Validaci%C3%B3n.png "></p>
 <p align="center">**Figura 8. Validación de correo electrónico **</p>
 
+Descripción: En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
+
 En la figura 8  se muestra la interfaz de validación de correo, con un recuadro emergente en la parte central, para el ingreso de la contraseña restrablesidad al sistema.
 
 
