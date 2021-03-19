@@ -108,15 +108,8 @@ Diagrama 2: Registrar Usuario
 
 
 
-# Historia de Usuarios
-## Link de Driver para mejor Revisión
-https://drive.google.com/file/d/1JPlCZrQNqSRBb7A1p3kiFXtGLaOYiaVI/view?usp=sharing
+# Historias de Usuarios
 
-## Realizado por:📋
-
-1. Condori Tipola Gael Aracely
-2. Saravia Alquez Rodrigo Nelson
-3. Nina Urquiola Yuvinca Mayumi
 
 ## Introducción
 En los últimos años las personas han estado recurriendo a las veterinarias más cercanas a su domicilio para la atención de sus mascotas tanto rutinarias como de emergencias, inclusive muchas personas solo preguntan cómo se los deben cuidar y qué remedios caseros dar a su mascota.
