@@ -162,9 +162,6 @@ En la figura 1 se muestra la interfaz de una previsualización de la página pri
 En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro en la parte central con dos campos para el “Nombre de Usuario” y la “Contraseña”, un botón “Iniciar” que permite ingresar, y un enlace color celeste “Olvidé mi Contraseña”que permite redireccionar a módulo de recuperación de contraseña, Por debajo del recuadro existen dos botones “Cancelar” Que permite volver a la página principal y “Registrarse” que permite redireccionar al módulo de registro de usuario.
 
 
-**Programador responsable**:  Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: Los clientes podrán tener acceso a este módulo.
 
 
 
