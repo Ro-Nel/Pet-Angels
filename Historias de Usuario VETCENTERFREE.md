@@ -199,13 +199,13 @@ En la figura 6 se muestra la interfaz de la pantalla principal después de ingre
 En la figura 7 se muestra la interfaz de “Olvidé mi Contraseña” con un recuadro emergente en la parte central que pueda ingresar su nueva contraseña restablecida
 
 
-Descripción:  Validación de contraseña cuando el usuario olvida su contraseña, redireccionar al módulo de recuperación de contraseña, donde el usuario deberá ingresar su correo electrónico con el que se registró en la página. Para establecer una nueva contraseña. y el usuario pueda verificar su nueva contraseña e introducir la nueva contraseña.
+**Descripción:**  Validación de contraseña cuando el usuario olvida su contraseña, redireccionar al módulo de recuperación de contraseña, donde el usuario deberá ingresar su correo electrónico con el que se registró en la página. Para establecer una nueva contraseña. y el usuario pueda verificar su nueva contraseña e introducir la nueva contraseña.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RecuperarContrase%C3%B1a-Validaci%C3%B3n.png"></p>
 <p align="center">**Figura 8. Validación de correo electrónico **</p>
 
 
-Descripción: En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
+**Descripción:** En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RestablecerContrase%C3%B1a.png"></p>
 <p align="center">**Figura 9. Restablecer la contraseña **</p>
@@ -228,7 +228,7 @@ En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emer
 
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
-Descripción: En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
+**Descripción:** En la interfaz se puede observar que se tendrá las opciones de registro  de clientes, Médicos veterinarios y el registro de publicidad cada uno redirigiendo a sus respectivos formularios.
 
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Usuarios.png"></p>
