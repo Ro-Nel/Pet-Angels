@@ -194,8 +194,16 @@ Descripción:  La plataforma le mostrará la interfaz de Bienvenida para los usu
 
 
 En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que da la bienvenida al usuario al sistema.
+
 Descripción:  La plataforma le mostrará la interfaz amigable para el usuario que logró con éxito ingresar poniendo su nombre del cliente en la barra de pestañas.
 
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/InicioSesion%20iniciada%20Veterinario.png"></p>
+<p align="center">**Figura 5. Página Principal de Cliente**</p>
+
+
+
+
+En la figura 5 se muestra la interfaz de la pantalla principal después de ingresar exitosamente al sistema, Mostrándole al cliente una barra de pestañas en los cuales se visualiza los módulos “INICIO”, “CONSULTAS”, “TIPS”, “SOBRE-NOSOTROS” y al final el nombre del cliente más una imagen. Por debajo de la barra se visualiza la publicidad que tendrá la página. En un recuadro podremos ver la los nombres de los veterinarios que están registrados y publicados por medio de su calificación de 5 estrellas dando una breve y concreta información de los mismos, con dos botones en cada uno de los recuadros de veterinarios “Consulta” y “Ver Perfil”, así mismo en el mismo recuadro se podrá realizar la búsqueda o selección de veterinarios por nombre o por ciudad.
 
 
 
