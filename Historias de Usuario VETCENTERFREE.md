@@ -511,8 +511,8 @@ En la figura 23 se muestra a los integrantes que realizaron la Página y una bre
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Inicio.png"></p>
 <p align="center">Figura 24. Pantalla principal. </p>
-En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y una lista de de veterinarios para poder realizar las consultas, en la parte inferior derecha se encuentra el Chatbot.
 
+En la figura 24 se muestra toda la informaciòn de la pagina mas publicidad y una lista de de veterinarios para poder realizar las consultas, en la parte inferior derecha se encuentra el Chatbot.
 
 
 **Descripción:**  La aplicación muestra la interfaz al momento de Hacerle Click al Chatbot, muestra la interacción que tiene con el usuario y la consulta que tiene acerca de su mascota"
