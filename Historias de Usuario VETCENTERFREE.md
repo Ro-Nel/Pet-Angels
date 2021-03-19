@@ -159,6 +159,29 @@ En la figura 1 se muestra la interfaz de una previsualización de la página pri
 
 En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro en la parte central con dos campos para el “Nombre de Usuario” y la “Contraseña”, un botón “Iniciar” que permite ingresar, y un enlace color celeste “Olvidé mi Contraseña”que permite redireccionar a módulo de recuperación de contraseña, Por debajo del recuadro existen dos botones “Cancelar” Que permite volver a la página principal y “Registrarse” que permite redireccionar al módulo de registro de usuario.
 
+## Registro de Publicidad
+
+**Número**:  5
+
+**Usuario**:  Cliente
+
+**Nombre de historia**:  Registro de Marca
+
+**Prioridad en negocio**: Alta
+
+**Riesgo de desarrollo**: Bajo
+
+Descripción:  La aplicación muestra la interfaz de tipo de Registro de la Marca cuando se despliega una lista entre los cuales de tercero está el Registro de Marca el cual redirecciona al módulo de registro con los siguientes campos a ser llenados: Nombre de la empresa(obligatorio), Nombre de la Marca(obligatorio), Duraciòn(obligatorio), Teléfono/celular (obligatorio), Nombre del anuncio(obligatorio), Imagen de la publicidad(obligatorio), Método de Pago(Selecciòn) el cual el usuario tiene que llenar.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20confirmacion.png"></p>
+<p align="center">Figura 18. Registro de Publicidad.</p>
+En la figura 4, se muestran los datos llenados por el usuario para su posible edición y los botones para guardar cambios, así como descartarlos.
+
+
+**Programador responsable**:  Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación**: Los clientes podrán tener acceso a este módulo.
+
 
 
 ##
@@ -341,12 +364,4 @@ Descripción:  La aplicación muestra la interfaz al momento de realizar la conv
 En la figura 26 se muestra la una conversación  y de respuestas o una posible aproximación se acerca de la mascota. El ChatBot estará disponible las 24 horas del día para resolver dudas comunes.
 
 
-## 4.5 Registro de Publicidad
 
-** Número**:  5
-** Usuario**:  Cliente
-** Nombre de historia**:  Registro de Marca
-** Prioridad en negocio**: Alta
-** Riesgo de desarrollo**: Bajo
-** Programador responsable**:  Rodrigo Saravia, Aracely Condori, Mayumi Nina
-** Validación**: Los clientes podrán tener acceso a este módulo.
