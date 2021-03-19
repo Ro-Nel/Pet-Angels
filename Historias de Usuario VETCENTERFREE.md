@@ -336,7 +336,7 @@ En la figura 5 se puede observar la confirmación del registro incluyendo con lo
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
 
-Descripción:  La aplicación muestra la interfaz del perfil del Veterinario donde se pueden visualizar sus datos personales: Nombre completo, Dirección , celular, descripción, correo electrónico y foto de perfil.
+**Descripción:**  La aplicación muestra la interfaz del perfil del Veterinario donde se pueden visualizar sus datos personales: Nombre completo, Dirección , celular, descripción, correo electrónico y foto de perfil.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/PerfilMedicoVeterinario.png"></p>
 <p align="center">**Figura 17. Perfil del Veterinario **</p>
@@ -357,7 +357,7 @@ En la figura 7 se muestra el perfil de usuario con todos los datos anteriormente
 **Riesgo de desarrollo**: Bajo
 
 
-Descripción:  La aplicación muestra la interfaz de tipo de Registro de la Marca cuando se despliega una lista entre los cuales de tercero está el Registro de Marca el cual redirecciona al módulo de registro con los siguientes campos a ser llenados: Nombre de la empresa(obligatorio), Nombre de la Marca(obligatorio), Duraciòn(obligatorio), Teléfono/celular (obligatorio), Nombre del anuncio(obligatorio), Imagen de la publicidad(obligatorio), Método de Pago(Selecciòn) el cual el usuario tiene que llenar.
+**Descripción:**  La aplicación muestra la interfaz de tipo de Registro de la Marca cuando se despliega una lista entre los cuales de tercero está el Registro de Marca el cual redirecciona al módulo de registro con los siguientes campos a ser llenados: Nombre de la empresa(obligatorio), Nombre de la Marca(obligatorio), Duraciòn(obligatorio), Teléfono/celular (obligatorio), Nombre del anuncio(obligatorio), Imagen de la publicidad(obligatorio), Método de Pago(Selecciòn) el cual el usuario tiene que llenar.
 
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20confirmacion.png"></p>
