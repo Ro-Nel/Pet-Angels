@@ -297,6 +297,7 @@ U**suario:** Cliente
 
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
+
 Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuando se despliega una lista entre los cuales de primero está en el Registro de Medico Veterianario el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), Trabajo con(obligatorio) el cual el usuario tiene que llenar.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMedicoVeterinario.png"></p>
