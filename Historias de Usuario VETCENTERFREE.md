@@ -206,6 +206,8 @@ Descripción: En la interfaz una vez que ya se haya validado el correo  electró
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RestablecerContrase%C3%B1a.png"></p>
 <p align="center">**Figura 9. Restablecer la contraseña **</p>
 
+En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que da la bienvenida al usuario al sistema
+
 ## Usuario 
 
 **Número:** 2
@@ -255,17 +257,19 @@ En la figura 11 se muestra el registro de usuario Paciente y Dueño con los camp
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png"></p>
 <p align="center">Diagrama 2. Registrar Usuario</p>
+En el diagrama 2 se puede observar el procedimiento de registro de usuarios en este caso como ser: médico veterinario, marcas y dueños de las mascotas.
 
+Descripción : Para el registro de la mascota es necesario que primero cumpla con todos los datos del dueño, luego se procederá a ingresar los datos de la mascota cómo el nombre, tamaño, edad, color, raza, especie y sexo, también podra agregar el registro de más de una mascota si cuenta con más de una.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
 <p align="center">**Figura 12. Registro de la Mascota**</p>
-
+Descripción : Cuándo se haya cumplido con todos los pasos de registro correspondientes podrá observar un mensaje de confirmación sobre el registro.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20-%20%20confirmacion.png"></p>
 <p align="center">**Figura 13. Confirmación de Registro de Mascota**</p>
 
 Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente-%20confirmaci%C3%B3n.png"></p>
 <p align="center">**Figura 14. Confirmación de Registro Dueño-Mascota **</p>
-
+ En la figura 14 se observa el  mensaje de confirmación correcta sobre el registro del dueño y mascota.
 
 
 ## Registro de Usuario Médico Veterianario 
@@ -298,7 +302,7 @@ Descripción:  La aplicación muestra la interfaz de confirmación de registro a
 <p align="center">**Figura 16. Confirmación de Registro de Usuario Medico Veterianario **</p>
 
 
-En la figura 5 se puede observar la confirmación del registro incluyendo con los requisitos a presentar en físico. 
+En la figura 5 se puede observar la confirmación del registro incluyendo con los requisitos a presentar en físico y de manera virtual. 
 
 
 ## Perfil de Usuario “Veterinario”
@@ -346,7 +350,7 @@ En la figura 4, se muestran los datos llenados por el usuario para su posible ed
 
 Descripción:  El usuario interesado en registrar su marca tiene que seleccionar la parte de pago el cual le redireccionará al módulo de pago, posteriormente le sale este Módulo cuando realice el pago.
 
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20confirmacion.png"></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMarca%20-%20Registrado.png"></p>
 <p align="center">**Figura 19. Confirmación de registro de Publicidad **</p>
 
 En la figura 9, se muestra una pantalla emergente señalandonos el correcto registro de la marca.
