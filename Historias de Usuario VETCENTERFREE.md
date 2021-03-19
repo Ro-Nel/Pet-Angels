@@ -262,12 +262,16 @@ En la figura 11 se muestra el registro de usuario Paciente y Dueño con los camp
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png"></p>
 <p align="center">Diagrama 2. Registrar Usuario</p>
+
 En el diagrama 2 se puede observar el procedimiento de registro de usuarios en este caso como ser: médico veterinario, marcas y dueños de las mascotas.
 
 Descripción : Para el registro de la mascota es necesario que primero cumpla con todos los datos del dueño, luego se procederá a ingresar los datos de la mascota cómo el nombre, tamaño, edad, color, raza, especie y sexo, también podra agregar el registro de más de una mascota si cuenta con más de una.
+
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
 <p align="center">**Figura 12. Registro de la Mascota**</p>
+
 Descripción : Cuándo se haya cumplido con todos los pasos de registro correspondientes podrá observar un mensaje de confirmación sobre el registro.
+
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20-%20%20confirmacion.png"></p>
 <p align="center">**Figura 13. Confirmación de Registro de Mascota**</p>
 
