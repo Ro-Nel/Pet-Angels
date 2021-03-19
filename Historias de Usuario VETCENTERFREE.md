@@ -280,8 +280,68 @@ En la figura 11 se muestra el registro de usuario Paciente y Dueño con los camp
 <p align="center">**Figura 13. Confirmación de Registro de Mascota**</p>
 
 Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png?raw=true" width="600"></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente-%20confirmaci%C3%B3n.png"></p>
 <p align="center">**Figura 14. Confirmación de Registro Dueño-Mascota **</p>
+
+
+
+## Registro de Usuario Médico Veterianario 
+
+**Número:** 3
+
+U**suario:** Cliente
+
+**Nombre de historia:** Registro de Usuario de Médico Veterianario
+
+**Prioridad en negocio:** Alta
+
+**Riesgo de desarrollo:** Bajo
+
+**Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación:** Los clientes podrán tener acceso a este módulo.
+
+Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuando se despliega una lista entre los cuales de primero está en el Registro de Medico Veterianario el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), Trabajo con(obligatorio) el cual el usuario tiene que llenar.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMedicoVeterinario.png"></p>
+<p align="center">**Figura 15. Registro de Usuario Medico Veterianario**</p>
+
+
+En la figura 15 se muestra el registro de médico veterinario con los campos a llenar
+
+Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de registrar.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMedicoV-%20confirmacion.png"></p>
+<p align="center">**Figura 16. Confirmación de Registro de Usuario Medico Veterianario **</p>
+
+
+En la figura 5 se puede observar la confirmación del registro incluyendo con los requisitos a presentar en físico. 
+
+
+## Perfil de Usuario “Veterinario”
+
+
+**Número:** 4
+
+**Usuario:** Cliente
+
+**Nombre de historia:** Perfil de Usuario “Veterinario”
+
+**Prioridad en negocio:** Alta
+
+**Riesgo de desarrollo:** Bajo
+
+**Programador responsable:** Rodrigo Saravia, Aracely Condori, Mayumi Nina
+
+**Validación:** Los clientes podrán tener acceso a este módulo.
+
+Descripción:  La aplicación muestra la interfaz del perfil del Veterinario donde se pueden visualizar sus datos personales: Nombre completo, Dirección , celular, descripción, correo electrónico y foto de perfil.
+
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/PerfilMedicoVeterinario.png"></p>
+<p align="center">**Figura 17. Perfil del Veterinario **</p>
+
+En la figura 7 se muestra el perfil de usuario con todos los datos anteriormente llenados.
+
 
 ## Registro de Publicidad
 
