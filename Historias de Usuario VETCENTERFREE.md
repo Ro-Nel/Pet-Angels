@@ -214,12 +214,12 @@ En la figura 7 se muestra la interfaz de “Olvidé mi Contraseña” con un rec
 
 Descripción:  Validación de contraseña cuando el usuario olvida su contraseña, redireccionar al módulo de recuperación de contraseña, donde el usuario deberá ingresar su correo electrónico con el que se registró en la página. Para establecer una nueva contraseña. y el usuario pueda verificar su nueva contraseña e introducir la nueva contraseña.
 
-<p align="center"><img src=" https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RecuperarContrase%C3%B1a-Validaci%C3%B3n.png "></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RecuperarContrase%C3%B1a-Validaci%C3%B3n.png"></p>
 <p align="center">**Figura 8. Validación de correo electrónico **</p>
 
 Descripción: En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
 
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RestablecerContrase%C3%B1a.png  "></p>
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RestablecerContrase%C3%B1a.png"></p>
 <p align="center">**Figura 9. Restablecer la contraseña **</p>
 
 ## Usuario 
