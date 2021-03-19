@@ -272,12 +272,13 @@ En el diagrama 2 se puede observar el procedimiento de registro de usuarios en e
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
 <p align="center">**Figura 12. Registro de la Mascota**</p>
 
-Descripción : Cuándo se haya cumplido con todos los pasos de registro correspondientes podrá observar un mensaje de confirmación sobre el registro.
+**Descripción :** Cuándo se haya cumplido con todos los pasos de registro correspondientes podrá observar un mensaje de confirmación sobre el registro.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20-%20%20confirmacion.png"></p>
 <p align="center">**Figura 13. Confirmación de Registro de Mascota**</p>
 
-Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
+**Descripción:**  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
+
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente-%20confirmaci%C3%B3n.png"></p>
 <p align="center">**Figura 14. Confirmación de Registro Dueño-Mascota **</p>
  En la figura 14 se observa el  mensaje de confirmación correcta sobre el registro del dueño y mascota.
