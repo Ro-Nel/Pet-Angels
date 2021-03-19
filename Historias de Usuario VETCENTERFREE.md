@@ -262,60 +262,26 @@ Descripción: En la interfaz se puede observar que se tendrá las opciones de re
 
 **Validación:** Los clientes podrán tener acceso a este módulo.
 
-
 Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
 
-<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroCliente.png"></p>
+<p align="center"><img src=" "></p>
 <p align="center">**Figura 11. Registro de Usuario Paciente y Dueño**</p>
 
 
 En la figura 11 se muestra el registro de usuario Paciente y Dueño con los campos a llenar
 
-
-
-
-
-En la figura 8  se muestra la interfaz de validación de correo, con un recuadro emergente en la parte central, para el ingreso de la contraseña restrablesidad al sistema.
-
-
-En la figura 6 se muestra la interfaz de la pantalla principal después de ingresar exitosamente al sistema, Mostrándole al cliente una barra de pestañas en los cuales se visualiza los módulos “INICIO”, “CONSULTAS”, “TIPS”, “SOBRE-NOSOTROS”, “Veterinario”, “Clínica” y al final el nombre del cliente más una imagen. Por debajo de la barra se visualiza la publicidad que tendrá la página. En un recuadro podremos ver la los nombres de los veterinarios que están registrados y publicados por medio de su calificación de 5 estrellas dando una breve y concreta información de los mismos, con dos botones en cada uno de los recuadros de veterinarios “Consulta” y “Ver Perfil”, así mismo en el mismo recuadro se podrá realizar la búsqueda o selección de veterinarios por nombre o por ciudad.
-
-En la figura 5 se muestra la interfaz de la pantalla principal después de ingresar exitosamente al sistema, Mostrándole al cliente una barra de pestañas en los cuales se visualiza los módulos “INICIO”, “CONSULTAS”, “TIPS”, “SOBRE-NOSOTROS” y al final el nombre del cliente más una imagen. Por debajo de la barra se visualiza la publicidad que tendrá la página. En un recuadro podremos ver la los nombres de los veterinarios que están registrados y publicados por medio de su calificación de 5 estrellas dando una breve y concreta información de los mismos, con dos botones en cada uno de los recuadros de veterinarios “Consulta” y “Ver Perfil”, así mismo en el mismo recuadro se podrá realizar la búsqueda o selección de veterinarios por nombre o por ciudad.
-
-
-
-
-
-**Número**: 2
-
-**Usuario**: Cliente
-
-**Nombre de historia**: Registro de Usuario Paciente y Dueño
-
-**Prioridad en negocio**: Alta
-
-**Riesgo de desarrollo**: Bajo
-
-**Programador responsable**: Rodrigo Saravia, Aracely Condori, Mayumi Nina
-
-**Validación**: Los clientes podrán tener acceso a este módulo.
-
-
-Descripción:  La aplicación muestra la interfaz de tipo de Registro de Usuario cuendo se despiega una lista entre los cuales de primero está en el Registro de Paciente y dueño el cual redirecciona al módulo de registro con los siguientes campos a ser llenados en la parte de Dueño: Nombre (obligatorio), Apellido (obligatorio), Dirección (obligatorio), Telefono/celular (obligatorio), correo electrónico (obligatorio), en la parte de Paciente: Nombre de la mascota (obligatorio), Tamaño (obligatorio), Edad(obligatorio), Especie (obligatorio), Sexo(obligatorio) el cual el usuario tiene que llenar.
-
-<p align="center"><img src="https://share.balsamiq.com/c/3iiMRVSCFj64dN4qhzybrj.png" width="600"></p>
-<p align="center">Figura 2. Registro de Usuario Paciente y Dueño</p>
-En la figura 2 se muestra el registro de usuario Paciente y Dueño con los campos a llenar
-
 <p align="center"><img src="https://share.balsamiq.com/c/7zbxgFknNQZCAi7VkksmNV.png" width="600"></p>
 <p align="center">Diagrama 2. Registrar Usuario</p>
 
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20.png"></p>
+<p align="center">**Figura 12. Registro de la Mascota**</p>
 
-
+<p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RegistroMascota%20-%20%20confirmacion.png"></p>
+<p align="center">**Figura 13. Confirmación de Registro de Mascota**</p>
 
 Descripción:  La aplicación muestra la interfaz de confirmación de registro al momento de presionar el botón de Guardar tanto en el registro de Dueño como el de Paciente.
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/uml.png?raw=true" width="600"></p>
-<p align="center">Figura 3. Confirmación de Registro Dueño-Paciente</p>
+<p align="center">**Figura 14. Confirmación de Registro Dueño-Mascota **</p>
 
 ## Registro de Publicidad
 
