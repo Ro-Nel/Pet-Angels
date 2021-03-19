@@ -171,7 +171,7 @@ En el Diagrama 1 se muestran los procesos de inicio de sesión, que se realizar�
 
 En la figura 3 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que notifica al usuario los intentos fallidos.
 
-Descripción:  La plataforma le mostrará la interfaz de Bienvenida para los usuarios que hayan ingresado correctamente su Usuario y Contraseña.
+**Descripción:**  La plataforma le mostrará la interfaz de Bienvenida para los usuarios que hayan ingresado correctamente su Usuario y Contraseña.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/Sesi%C3%B3n%20iniciada.png" width="600"></p>
 <p align="center">**Figura 4. Validación exitosa **</p>
@@ -179,7 +179,7 @@ Descripción:  La plataforma le mostrará la interfaz de Bienvenida para los usu
 
 En la figura 2 se muestra la interfaz de inicio de sesión, con un recuadro emergente en la parte central que da la bienvenida al usuario al sistema.
 
-Descripción:  La plataforma le mostrará la interfaz amigable para el usuario que logró con éxito ingresar poniendo su nombre del cliente en la barra de pestañas.
+**Descripción:**  La plataforma le mostrará la interfaz amigable para el usuario que logró con éxito ingresar poniendo su nombre del cliente en la barra de pestañas.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/InicioSesion%20iniciada%20Veterinario.png"></p>
 <p align="center">**Figura 5. Página Principal de Cliente**</p>
