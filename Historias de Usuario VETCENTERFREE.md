@@ -196,10 +196,12 @@ Descripción: Olvidé mi contraseña, redireccionar al módulo de recuperación 
 
 En la figura 7 se muestra la interfaz de “Olvidé mi Contraseña” con un recuadro emergente en la parte central que pueda ingresar su nueva contraseña restablecida
 
+
 Descripción:  Validación de contraseña cuando el usuario olvida su contraseña, redireccionar al módulo de recuperación de contraseña, donde el usuario deberá ingresar su correo electrónico con el que se registró en la página. Para establecer una nueva contraseña. y el usuario pueda verificar su nueva contraseña e introducir la nueva contraseña.
 
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/RecuperarContrase%C3%B1a-Validaci%C3%B3n.png"></p>
 <p align="center">**Figura 8. Validación de correo electrónico **</p>
+
 
 Descripción: En la interfaz una vez que ya se haya validado el correo  electrónico, se pedirá que ingrese la nueva contraseña y de igual manera que se ingrese dos veces para confirmar la nueva contraseña, luego de ese procedimiento se redirigirá a la figura 2.
 
@@ -460,7 +462,6 @@ Descripción:  La aplicación muestra los todos los datos informativos de los qu
 <p align="center"><img src="https://github.com/Ro-Nel/Pet-Angels/blob/main/Imagenes/SobreNosotros.png"></p>
 <p align="center">Figura 23. Detalles de módulo sobre nosotros.</p>
 En la figura 23 se muestra a los integrantes que realizaron la Página y una breve descripción de ellos y su trabajo, más una apartado de publicidad.
-
 
 
 ##  ChatBot
